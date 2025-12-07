@@ -5,14 +5,10 @@ import java.util.*;
 
 public class PlusProcheVoisin {
 
-    /**
-     * Résout le problème en utilisant l'heuristique du plus proche voisin
-     * avec contrainte de capacité (Retour au dépôt si plein).
-     */
     public static List<Tournee> resoudre(Graphe graphe, Sommet depot, List<Sommet> pointsCollecte, int capaciteMax) {
         List<Tournee> solution = new ArrayList<>();
 
-        // Liste des points restant à visiter (on exclut le dépôt s'il y est)
+        // Liste des points restant à visiter
         Set<Sommet> aVisiter = new HashSet<>(pointsCollecte);
         aVisiter.remove(depot);
 
@@ -26,9 +22,8 @@ public class PlusProcheVoisin {
             double distMin = Double.MAX_VALUE;
             Itineraire cheminVersMeilleur = null;
 
-            // 1. Trouver le point le plus proche parmi ceux restants
-            // NOTE : Pour optimiser, on pourrait pré-calculer la matrice des distances,
-            // mais ici on lance Dijkstra à la volée pour rester simple.
+            // Trouver le point le plus proche parmi ceux restants
+            
             for (Sommet candidat : aVisiter) {
                 Itineraire it = Dijkstra.calculerPlusCourtChemin(graphe, positionActuelle, candidat);
 
@@ -54,20 +49,18 @@ public class PlusProcheVoisin {
                 positionActuelle = depot;
                 tourneeCourante.ajouterSommet(depot);
 
-                // On reprend la boucle sans avoir visité le point (on le fera avec le camion vide)
                 continue;
             }
 
-            // 3. Aller vers le voisin (Ajouter le chemin détaillé)
             completerTournee(tourneeCourante, cheminVersMeilleur);
             tourneeCourante.ajouterCharge(meilleurVoisin.getQuantiteDechets());
 
-            // Mise à jour
+            
             positionActuelle = meilleurVoisin;
             aVisiter.remove(meilleurVoisin);
         }
 
-        // Fin : Retour au dépôt pour la dernière tournée
+        //Retour au dépôt pour la dernière tournée
         Itineraire retourFinal = Dijkstra.calculerPlusCourtChemin(graphe, positionActuelle, depot);
         completerTournee(tourneeCourante, retourFinal);
         solution.add(tourneeCourante);
@@ -75,10 +68,9 @@ public class PlusProcheVoisin {
         return solution;
     }
 
-    // Utilitaire pour ajouter les points intermédiaires d'un itinéraire à la tournée
     private static void completerTournee(Tournee t, Itineraire it) {
         List<Sommet> chemin = it.getChemin();
-        // On commence à i=1 pour ne pas dupliquer le point de départ
+     
         for (int i = 1; i < chemin.size(); i++) {
             t.ajouterSommet(chemin.get(i));
         }
