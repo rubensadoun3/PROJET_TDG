@@ -20,6 +20,10 @@ public class Sommet {
     private double distance;
     private Sommet predecesseur;
 
+    // === NOUVEAUX ATTRIBUTS (THEME 2 - DECHETS) ===
+    private int quantiteDechets = 0;
+    private boolean estPointCollecte = false;
+
     public Sommet(String id, String nom) {
         this.id = id;
         this.nom = nom;
@@ -36,19 +40,17 @@ public class Sommet {
         this.distance = Double.POSITIVE_INFINITY;
         this.predecesseur = null;
     }
-    // --- MÉTHODES UTILES POUR LES GRAPHES ---
 
-    // Retourne le nombre de routes connectées à ce croisement
+    // --- MÉTHODES UTILES ---
     public int getDegre() {
         return voisins.size();
     }
 
-    // Vérifie si le nombre de routes est pair (Utile pour Euler)
     public boolean estDegrePair() {
         return getDegre() % 2 == 0;
     }
 
-    // GETTERS & SETTERS
+    // --- GETTERS & SETTERS CLASSIQUES ---
     public String getId() { return id; }
     public Map<Sommet, Double> getVoisins() { return voisins; }
 
@@ -68,6 +70,13 @@ public class Sommet {
     public void setVisite(boolean v) { this.visite = v; }
     public Sommet getPredecesseur() { return predecesseur; }
     public void setPredecesseur(Sommet p) { this.predecesseur = p; }
+
+    // --- GETTERS & SETTERS (THEME 2) ---
+    public int getQuantiteDechets() { return quantiteDechets; }
+    public void setQuantiteDechets(int q) { this.quantiteDechets = q; }
+
+    public boolean estPointCollecte() { return estPointCollecte; }
+    public void setEstPointCollecte(boolean b) { this.estPointCollecte = b; }
 
     @Override
     public String toString() { return id; }
