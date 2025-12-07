@@ -34,7 +34,7 @@ public class Secteur implements Comparable<Secteur> {
         return voisins.size();
     }
 
-    // Tri pour l'algorithme Welsh-Powell (Degré décroissant)
+    // Tri pour l'algorithme Welsh-Powell 
     @Override
     public int compareTo(Secteur autre) {
         int res = Integer.compare(autre.getDegre(), this.getDegre());
