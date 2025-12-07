@@ -25,14 +25,14 @@ public class FenetreConfig extends JFrame {
         gbc.insets = new Insets(10, 10, 10, 10);
         gbc.fill = GridBagConstraints.HORIZONTAL;
 
-        // 1. Titre
+        // Titre
         JLabel lblTitre = new JLabel("Configuration de la Planification");
         lblTitre.setFont(new Font("SansSerif", Font.BOLD, 24));
         lblTitre.setHorizontalAlignment(SwingConstants.CENTER);
         gbc.gridx = 0; gbc.gridy = 0; gbc.gridwidth = 2;
         panneau.add(lblTitre, gbc);
 
-        // 2. Champs de saisie
+        // Champs de saisie
         gbc.gridwidth = 1;
         gbc.gridy = 1; panneau.add(new JLabel("Nombre de Camions (N) :"), gbc);
         JTextField txtN = new JTextField("4");
@@ -42,7 +42,7 @@ public class FenetreConfig extends JFrame {
         JTextField txtC = new JTextField("8.0");
         gbc.gridx = 1; panneau.add(txtC, gbc);
 
-        // 3. Choix Algorithme
+        // Choix Algorithme
         gbc.gridx = 0; gbc.gridy = 3; panneau.add(new JLabel("Algorithme :"), gbc);
         JRadioButton rbH1 = new JRadioButton("Hypothèse 1 : Voisinage Seul (Welsh-Powell)");
         JRadioButton rbH2 = new JRadioButton("Hypothèse 2 : Capacité Limitée (First-Fit Capacité)");
@@ -57,7 +57,7 @@ public class FenetreConfig extends JFrame {
         radioPanel.add(rbH2);
         gbc.gridx = 1; panneau.add(radioPanel, gbc);
 
-        // 4. Bouton Lancer
+        // Bouton Lancer
         JButton btnLancer = new JButton("Lancer la Planification");
         btnLancer.setFont(new Font("SansSerif", Font.BOLD, 14));
         btnLancer.setBackground(new Color(50, 150, 250));
@@ -66,7 +66,7 @@ public class FenetreConfig extends JFrame {
         gbc.gridx = 0; gbc.gridy = 4; gbc.gridwidth = 2;
         panneau.add(btnLancer, gbc);
 
-        // --- Action du bouton ---
+        // Action du bouton
         btnLancer.addActionListener(e -> {
             try {
                 // Récupération des valeurs
