@@ -5,7 +5,7 @@ import java.util.Random;
 
     public class GenerateurGPS_Secours {
 
-        // Boite englobante de Vitry-sur-Seine (Lat/Lon approximatifs)
+        // Boite englobante de Vitry-sur-Seine
         private static final double MIN_LAT = 48.7750;
         private static final double MAX_LAT = 48.8050;
         private static final double MIN_LON = 2.3700;
@@ -36,7 +36,6 @@ import java.util.Random;
                     double lat = MIN_LAT + (MAX_LAT - MIN_LAT) * random.nextDouble();
                     double lon = MIN_LON + (MAX_LON - MIN_LON) * random.nextDouble();
 
-                    // On écrit la ligne originale + les fausses coordonnées GPS
                     bw.write(ligne + "," + lat + "," + lon);
                     bw.newLine();
                     count++;
