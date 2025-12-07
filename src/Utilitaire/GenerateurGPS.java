@@ -16,7 +16,7 @@ public class GenerateurGPS {
         String fichierEntree = "data/vitry_sur_seine_intersections.csv";
         String fichierSortie = "data/vitry_gps.csv";
 
-        System.out.println("=== DÉMARRAGE DU GÉOCODAGE ===");
+        System.out.println(" DÉMARRAGE GEOCODAGE");
 
         try (BufferedReader br = new BufferedReader(new FileReader(fichierEntree));
              BufferedWriter bw = new BufferedWriter(new FileWriter(fichierSortie))) {

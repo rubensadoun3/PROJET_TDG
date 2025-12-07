@@ -69,7 +69,7 @@ public class FenetrePrincipale extends JFrame {
         btnP2C2.addActionListener(e -> lancerP2C2());
         panneauMenu.add(btnP2C2);
 
-        JButton btnP2C3 = new JButton("Theme 1 - Prob 2 - Cas 3 (Postier Chinois)");
+        JButton btnP2C3 = new JButton("Theme 1 - Prob 2 - Cas 3 ");
         btnP2C3.addActionListener(e -> lancerP2C3());
         panneauMenu.add(btnP2C3);
 
