@@ -39,7 +39,6 @@ public class GenerateurGPS {
                 String rue2 = (data.length > 2) ? data[2].replace("\"", "").trim() : "";
                 String requete = rue1 + " " + rue2 + " Vitry-sur-Seine France";
 
-                // Appel API Nominatim (OpenStreetMap)
                 double[] coord = interrogerNominatim(requete);
 
                 // Si échec, on essaie juste avec la première rue
@@ -52,13 +51,13 @@ public class GenerateurGPS {
                     bw.write(ligne + "," + coord[0] + "," + coord[1]);
                     System.out.printf("[%d] Trouvé : %s -> %f, %f%n", ++compteur, data[0], coord[0], coord[1]);
                 } else {
-                    // Si pas trouvé, on met 0,0 (on filtrera après)
+                  
                     bw.write(ligne + ",0.0,0.0");
                     System.err.printf("[%d] ÉCHEC : %s%n", ++compteur, data[0]);
                 }
                 bw.newLine();
 
-                // PAUSE OBLIGATOIRE de 1 seconde (pour ne pas se faire bannir par l'API)
+                
                 Thread.sleep(1100);
             }
             System.out.println("=== FINI ! Fichier créé : " + fichierSortie + " ===");
@@ -87,7 +86,7 @@ public class GenerateurGPS {
             String json = response.toString();
             if (json.length() < 5) return null; // Réponse vide
 
-            // Extraction manuelle sans librairie JSON
+         
             Pattern latPattern = Pattern.compile("\"lat\":\"([^\"]+)\"");
             Pattern lonPattern = Pattern.compile("\"lon\":\"([^\"]+)\"");
             Matcher mLat = latPattern.matcher(json);
