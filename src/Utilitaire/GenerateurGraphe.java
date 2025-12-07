@@ -4,7 +4,7 @@ import Modele.*;
 
 public class GenerateurGraphe {
 
-    // --- GRAPHES BASIQUES (Inchangés) ---
+    //GRAPHES BASIQUES 
     public static Graphe genererGrapheSimple() {
         Graphe g = new Graphe(false);
         Sommet depot = new Sommet("Depot", "Centre"); depot.setX(100); depot.setY(300);
@@ -45,12 +45,8 @@ public class GenerateurGraphe {
         return g;
     }
 
-    // --- GRAPHES MOYENS (30 Sommets - Plus lisibles) ---
+    // GRAPHES MOYENS 30 Sommets
 
-    /**
-     * Génère un graphe EULERIEN (Cycle) de N sommets (ex: 30).
-     * Tous les sommets ont un degré PAIR (4).
-     */
     public static Graphe genererGrandCycleEulerien(int nbSommets) {
         Graphe g = new Graphe(false);
         Sommet[] sommets = new Sommet[nbSommets];
@@ -59,7 +55,7 @@ public class GenerateurGraphe {
         int centreY = 400;
         int rayon = 300; // Un peu plus petit pour bien centrer
 
-        // 1. Création des sommets en cercle
+        // Création des sommets en cercle
         for (int i = 0; i < nbSommets; i++) {
             double angle = 2 * Math.PI * i / nbSommets;
             int x = (int) (centreX + rayon * Math.cos(angle));
@@ -71,11 +67,11 @@ public class GenerateurGraphe {
             g.ajouterSommet(sommets[i]);
         }
 
-        // 2. Création des arêtes (Style "Ruban")
+        // Création des arêtes 
         for (int i = 0; i < nbSommets; i++) {
             Sommet s1 = sommets[i];
 
-            // Voisin immédiat (forme le cercle)
+            // Voisin immédiat 
             Sommet s2 = sommets[(i + 1) % nbSommets];
 
             // Voisin N+2 (forme un deuxième anneau interne parallèle)
@@ -89,10 +85,6 @@ public class GenerateurGraphe {
         return g;
     }
 
-    /**
-     * Génère un graphe SEMI-EULERIEN (Chemin) de N sommets (ex: 30).
-     * Exactement 2 sommets impairs.
-     */
     public static Graphe genererGrandCheminEulerien(int nbSommets) {
         Graphe g = new Graphe(false);
         Sommet[] sommets = new Sommet[nbSommets];
@@ -112,7 +104,7 @@ public class GenerateurGraphe {
             Sommet sNext1 = sommets[(i + 1) % nbSommets];
             Sommet sNext2 = sommets[(i + 2) % nbSommets];
 
-            // ON SUPPRIME UNE SEULE ARÊTE DU CERCLE EXTÉRIEUR (Entre S0 et S1)
+            // ON SUPPRIME UNE SEULE ARÊTE DU CERCLE EXTÉRIEUR
             // S0 et S1 deviennent impairs (Degré 3), les autres restent pairs (Degré 4).
             if (i != 0) {
                 addAreteUnique(g, sCurrent, sNext1);
