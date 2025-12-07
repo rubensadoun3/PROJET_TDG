@@ -23,11 +23,11 @@ public class FenetrePrincipale extends JFrame {
         this.setLocationRelativeTo(null);
         this.setLayout(new BorderLayout());
 
-        // Panneau Carte (Centre)
+        // Panneau Carte
         panneauMap = new PanneauGraphe(grapheVitry);
         this.add(panneauMap, BorderLayout.CENTER);
 
-        // Panneau Menu (Gauche)
+        // Panneau Menu
         JPanel panneauMenu = new JPanel();
         panneauMenu.setLayout(new GridLayout(12, 1, 10, 10));
         panneauMenu.setBackground(Color.LIGHT_GRAY);
@@ -38,18 +38,18 @@ public class FenetrePrincipale extends JFrame {
         lblTitre.setFont(new Font("Arial", Font.BOLD, 18));
         panneauMenu.add(lblTitre);
 
-        // --- THEME 1 (BASIQUE) ---
+        //THEME 1
         JButton btnP1H1 = new JButton("Theme 1 - Prob 1 - Hyp 1 (1 Client)");
         btnP1H1.addActionListener(e -> lancerP1H1());
         panneauMenu.add(btnP1H1);
 
-        // MODIFIÉ : Hypothèse 2 (TSP sur N points aléatoires)
+        //Hypothèse 2 
         JButton btnP1H2 = new JButton("Theme 1 - Prob 1 - Hyp 2 (Tournée TSP)");
         btnP1H2.setToolTipText("Génère 10-15 points au hasard et optimise la tournée");
         btnP1H2.addActionListener(e -> lancerP1H2());
         panneauMenu.add(btnP1H2);
 
-        // --- THEME 2 (OPTIMISATION AVANCÉE - 150 POINTS) ---
+        // THEME 2 AVEC 150 POINTS DE COLLECTE
         JButton btnTh2 = new JButton("Theme 2 - Optimisation (Plus Proche Voisin)");
         btnTh2.setBackground(new Color(150, 250, 150)); // Vert clair
         btnTh2.addActionListener(e -> lancerTheme2());
@@ -60,7 +60,7 @@ public class FenetrePrincipale extends JFrame {
         btnTh2MST.addActionListener(e -> lancerTheme2MST());
         panneauMenu.add(btnTh2MST);
 
-        // --- THEME 3 (EULER & POSTIER CHINOIS) ---
+        // THEME 3 EULER + POSTIER CHINOIS
         JButton btnP2C1 = new JButton("Theme 1 - Prob 2 - Cas 1 (Cycle Eulérien)");
         btnP2C1.addActionListener(e -> lancerP2C1());
         panneauMenu.add(btnP2C1);
@@ -73,13 +73,13 @@ public class FenetrePrincipale extends JFrame {
         btnP2C3.addActionListener(e -> lancerP2C3());
         panneauMenu.add(btnP2C3);
 
-        // --- THEME 3 (PLANIFICATION / SIMULATION) ---
+        // SIMULATION
         JButton btnP3 = new JButton("Theme 3 - Planification (Secteurs)");
         btnP3.setBackground(new Color(255, 200, 100)); // Orange
         btnP3.addActionListener(e -> lancerPlanification());
         panneauMenu.add(btnP3);
 
-        // --- RESET ---
+        // RESET 
         JButton btnReset = new JButton("Retour Carte Vitry Sur Seine");
         btnReset.setBackground(new Color(173, 216, 230));
         btnReset.addActionListener(e -> panneauMap.setGraphe(grapheVitry, true));
@@ -88,10 +88,6 @@ public class FenetrePrincipale extends JFrame {
         this.add(panneauMenu, BorderLayout.WEST);
         this.setVisible(true);
     }
-
-    // ============================================================
-    // LOGIQUE METIER - THEME 1
-    // ============================================================
 
     private void lancerP1H1() {
         panneauMap.setGraphe(grapheVitry, true);
@@ -102,14 +98,10 @@ public class FenetrePrincipale extends JFrame {
         panneauMap.animerItineraire(itineraire);
     }
 
-    /**
-     * HYPOTHESE 2 : TSP avec Graphe Complet (Réduction)
-     * Demande le nombre de points (10-15) et calcule la tournée via VoyageurCommerce.
-     */
     private void lancerP1H2() {
         panneauMap.setGraphe(grapheVitry, true);
 
-        // 1. Demander à l'utilisateur le nombre de points
+        // Demander à l'utilisateur le nombre de points
         String input = JOptionPane.showInputDialog(this,
                 "Combien de points de collecte voulez-vous visiter ?\n(Conseillé : entre 10 et 15)",
                 "10");
@@ -126,11 +118,11 @@ public class FenetrePrincipale extends JFrame {
             return;
         }
 
-        // 2. Sélectionner aléatoirement ces points dans la ville
+        // Sélectionner aléatoirement ces points dans la ville
         List<Sommet> tousSommets = new ArrayList<>(grapheVitry.getTousSommets());
         if (tousSommets.isEmpty()) return;
 
-        // On prend le premier sommet comme Dépôt (pour avoir une référence fixe)
+        // On prend le premier sommet comme Dépôt 
         Sommet depot = tousSommets.get(0);
         List<Sommet> clientsAVisiter = new ArrayList<>();
 
@@ -151,7 +143,7 @@ public class FenetrePrincipale extends JFrame {
                         "3. Reconstruction de l'itinéraire",
                 "Calcul TSP", JOptionPane.INFORMATION_MESSAGE);
 
-        // 3. Lancer l'algorithme mis à jour (via GrapheComplet)
+        // 3. Lancer l'algorithme mis à jour
         try {
             // Note : Assurez-vous que VoyageurCommerce a bien été mis à jour avec la logique GrapheComplet
             Itineraire tournee = VoyageurCommerce.calculerTournee(grapheVitry, depot, clientsAVisiter);
@@ -161,10 +153,6 @@ public class FenetrePrincipale extends JFrame {
             JOptionPane.showMessageDialog(this, "Erreur calcul : " + e.getMessage());
         }
     }
-
-    // ============================================================
-    // LOGIQUE METIER - THEME 2 (OPTIMISATION AVEC CAPACITÉ)
-    // ============================================================
 
     private void lancerTheme2() {
         List<Sommet> pointsCollecte = LecteurCSV.chargerPointsCollecte("data/vitry_collecte150.csv", grapheVitry);
@@ -225,10 +213,6 @@ public class FenetrePrincipale extends JFrame {
         }).start();
     }
 
-    // ============================================================
-    // LOGIQUE METIER - GRAPHES EULERIENS & POSTIER CHINOIS
-    // ============================================================
-
     private void lancerP2C1() {
         int choix = JOptionPane.showConfirmDialog(this,
                 "Voulez-vous générer un graphe lisible (30 sommets) parfait pour la démo ?",
@@ -276,7 +260,7 @@ public class FenetrePrincipale extends JFrame {
         panneauMap.animerItineraire(couverture);
     }
 
-    // Helper pour parcourir le graphe (DFS simple)
+    //parcourir le graphe DFS simple
     private Itineraire parcouriToutesRues(Graphe g, Sommet depart, int limite) {
         Itineraire result = new Itineraire();
         Stack<Sommet> pile = new Stack<>();
@@ -305,12 +289,8 @@ public class FenetrePrincipale extends JFrame {
         return result;
     }
 
-    // ============================================================
-    // LOGIQUE METIER - THEME 3 (PLANIFICATION SECTEURS)
-    // ============================================================
-
     private void lancerPlanification() {
-        // 1. Adapter ton graphe Vitry vers la structure de Simulation
+        // 1. Adapter le graphe Vitry vers la structure de Simulation
         VilleSimu villeSimu = AdaptateurProjet.convertir(this.grapheVitry);
 
         // 2. Ouvrir la fenêtre de configuration (Écran 1)
