@@ -7,11 +7,11 @@ public class Sommet {
     private String nom;
     private Map<Sommet, Double> voisins;
 
-    // Coordonnées pour l'affichage (Pixels)
+    // Coordonnées pour l'affichage
     private int x;
     private int y;
 
-    // Coordonnées Géographiques (GPS)
+    // Coordonnées Géographiques
     private double latitude;
     private double longitude;
 
@@ -20,7 +20,7 @@ public class Sommet {
     private double distance;
     private Sommet predecesseur;
 
-    // === NOUVEAUX ATTRIBUTS (THEME 2 - DECHETS) ===
+    //NOUVEAUX ATTRIBUTS 
     private int quantiteDechets = 0;
     private boolean estPointCollecte = false;
 
@@ -41,7 +41,7 @@ public class Sommet {
         this.predecesseur = null;
     }
 
-    // --- MÉTHODES UTILES ---
+    // MÉTHODES UTILES
     public int getDegre() {
         return voisins.size();
     }
@@ -50,7 +50,7 @@ public class Sommet {
         return getDegre() % 2 == 0;
     }
 
-    // --- GETTERS & SETTERS CLASSIQUES ---
+    // GETTERS & SETTERS CLASSIQUES
     public String getId() { return id; }
     public Map<Sommet, Double> getVoisins() { return voisins; }
 
@@ -71,7 +71,7 @@ public class Sommet {
     public Sommet getPredecesseur() { return predecesseur; }
     public void setPredecesseur(Sommet p) { this.predecesseur = p; }
 
-    // --- GETTERS & SETTERS (THEME 2) ---
+    
     public int getQuantiteDechets() { return quantiteDechets; }
     public void setQuantiteDechets(int q) { this.quantiteDechets = q; }
 
