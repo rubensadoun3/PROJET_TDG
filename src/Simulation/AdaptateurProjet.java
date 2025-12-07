@@ -9,7 +9,7 @@ public class AdaptateurProjet {
     public static VilleSimu convertir(Graphe grapheEtudiant) {
         VilleSimu ville = new VilleSimu();
 
-        // 1. Découpage géographique de Vitry (basé sur tes coordonnées 1000x800)
+        // Découpage géographique de Vitry 
         // On crée 5 zones rectangulaires fictives
         Secteur no = new Secteur(0, "Nord-Ouest", new Rectangle(0, 0, 400, 350));
         Secteur ne = new Secteur(1, "Nord-Est", new Rectangle(400, 0, 600, 350));
@@ -20,7 +20,7 @@ public class AdaptateurProjet {
         ville.secteurs.put(0, no); ville.secteurs.put(1, ne); ville.secteurs.put(2, ce);
         ville.secteurs.put(3, so); ville.secteurs.put(4, se);
 
-        // 2. Définir les voisins (Qui touche qui ?)
+        // Définir les voisins 
         // Le Centre touche tout le monde
         ce.ajouterVoisin(no); ce.ajouterVoisin(ne); ce.ajouterVoisin(so); ce.ajouterVoisin(se);
         no.ajouterVoisin(ce); no.ajouterVoisin(ne); no.ajouterVoisin(so);
@@ -28,7 +28,7 @@ public class AdaptateurProjet {
         so.ajouterVoisin(ce); so.ajouterVoisin(no); so.ajouterVoisin(se);
         se.ajouterVoisin(ce); se.ajouterVoisin(ne); se.ajouterVoisin(so);
 
-        // 3. Répartir TES sommets dans ces secteurs
+        // Répartir les sommets dans ces secteurs
         for (Sommet s : grapheEtudiant.getTousSommets()) {
             IntersectionSimu inter = new IntersectionSimu(s.getId(), s.getX(), s.getY());
 
@@ -40,9 +40,8 @@ public class AdaptateurProjet {
             else se.pointsCollecte.add(inter);
         }
 
-        // 4. Générer des déchets aléatoires pour la simu
+        // Générer des déchets aléatoires pour la simu
         for(Secteur s : ville.secteurs.values()) {
-            // Environ 0.15 tonne par intersection
             s.setQuantiteDechets(s.pointsCollecte.size() * 0.15 + (Math.random() * 2));
         }
 
