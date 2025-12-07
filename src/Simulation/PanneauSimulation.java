@@ -24,7 +24,7 @@ public class PanneauSimulation extends JPanel {
         this.ville = ville;
         this.setBackground(Color.WHITE);
 
-        // Timer d'animation (30 FPS environ -> 33ms)
+        // Timer d'animation
         timerAnimation = new javax.swing.Timer(33, e -> {
             animerCamions();
             repaint();
@@ -41,7 +41,6 @@ public class PanneauSimulation extends JPanel {
         this.jourActuel = jour;
         camionsActifs.clear();
 
-        // Réinitialiser l'état visité pour la semaine si on recommence
         if (jour == 1) {
             for(IntersectionSimu i : ville.reseau.values()) i.estVisite = false;
         }
@@ -126,7 +125,7 @@ public class PanneauSimulation extends JPanel {
         Graphics2D g2 = (Graphics2D) g;
         g2.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
 
-        // Dessiner les Secteurs (Points)
+        // Dessiner les Secteurs
         for(Secteur s : ville.secteurs.values()) {
             Color couleurSecteur = (s.getJourAttribue() > 0 && s.getJourAttribue() < palette.length)
                     ? palette[s.getJourAttribue()] : Color.BLACK;
@@ -141,7 +140,6 @@ public class PanneauSimulation extends JPanel {
                 }
             }
 
-            // Etiquettes Secteurs
             g2.setColor(Color.BLACK);
             g2.setFont(new Font("SansSerif", Font.BOLD, 12));
             String libelle = s.getNom() + " (J" + s.getJourAttribue() + ")";
