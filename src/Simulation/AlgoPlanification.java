@@ -4,7 +4,7 @@ import java.util.*;
 
 public class AlgoPlanification {
 
-    // Hypothèse 1 : Welsh-Powell (Coloration pure, ignore la capacité C pour le jour)
+    // Hypothèse 1 : Welsh-Powell
     public static int resoudreWelshPowell(List<Secteur> secteurs, int nbCamions, double chargeMax) {
         List<Secteur> tries = new ArrayList<>(secteurs);
         Collections.sort(tries); // Tri par degré décroissant
@@ -29,13 +29,12 @@ public class AlgoPlanification {
                     }
                 }
             }
-            // Sécurité anti-boucle infinie (si graphe non colorable, rare ici)
             if(jour > 100) break;
         }
         return jour;
     }
 
-    // Hypothèse 2 : First-Fit avec contrainte de capacité (CORRIGÉ)
+    // Hypothèse 2 : First-Fit avec contrainte de capacité
     public static int resoudreFirstFit(List<Secteur> secteurs, int nbCamionsFlotte, double chargeMax) {
         List<Secteur> tries = new ArrayList<>(secteurs);
         // Tri : Degré décroissant, puis quantité de déchets décroissante (pour placer les gros d'abord)
@@ -44,12 +43,12 @@ public class AlgoPlanification {
         int jour = 0;
         int nbTraites = 0;
 
-        // SÉCURITÉ : Vérifier qu'aucun secteur n'est plus gros que la flotte entière
+        // On vérifie qu'aucun secteur n'est plus gros que la flotte entière
         for(Secteur s : tries) {
             int besoin = (int) Math.ceil(s.getQuantiteDechets() / chargeMax);
             if (besoin > nbCamionsFlotte) {
                 System.err.println("ERREUR CRITIQUE : Le secteur " + s.getNom() + " nécessite " + besoin + " camions, mais la flotte est de " + nbCamionsFlotte + ".");
-                // On force le besoin au max possible pour éviter le crash, mais c'est une incohérence logique
+                
                 besoin = nbCamionsFlotte;
             }
         }
@@ -63,7 +62,7 @@ public class AlgoPlanification {
                 if (s.getJourAttribue() == -1) {
                     int besoin = (int) Math.ceil(s.getQuantiteDechets() / chargeMax);
                     if (besoin < 1) besoin = 1;
-                    // Plafonnement sécurité si besoin > flotte (ne devrait plus arriver avec le check ci-dessus)
+                
                     if (besoin > nbCamionsFlotte) besoin = nbCamionsFlotte;
 
                     boolean conflitVoisin = false;
@@ -71,7 +70,7 @@ public class AlgoPlanification {
                         if (v.getJourAttribue() == jour) { conflitVoisin = true; break; }
                     }
 
-                    // On place si : Pas de conflit ET Assez de camions restants ce jour-là
+                    
                     if (!conflitVoisin && camionsDispoCeJour >= besoin) {
                         s.setJourAttribue(jour);
                         s.camionsRequis = besoin;
@@ -81,9 +80,6 @@ public class AlgoPlanification {
                     }
                 }
             }
-
-            // DETECTEUR DE BLOCAGE (Anti boucle infinie)
-            // Si on passe une journée entière sans pouvoir placer AUCUN secteur restant, on est coincé.
             if (!auMoinsUnSecteurPlaceCeJour && nbTraites < tries.size()) {
                 System.err.println("BLOCAGE DÉTECTÉ : Impossible de placer les secteurs restants avec les contraintes actuelles.");
                 // On force le placement sur des jours suivants un par un pour débloquer
