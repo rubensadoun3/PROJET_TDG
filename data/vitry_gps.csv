@@ -1,0 +1,1158 @@
+,Latitude,Longitude
+ID,Street1,Street2,Street3,0.0,0.0
+Croisement1,13,Quai Jules Guesde,,48.782521,2.417165
+Croisement2,Allée A,Allée H,,48.773385,2.4043261
+Croisement3,Allée A,Allée J,,48.773385,2.4043261
+Croisement4,Allée A,Allée K,,48.773385,2.4043261
+Croisement5,Allée A,Allée Nord,,48.773385,2.4043261
+Croisement6,Allée Chabrier,Sente des Jolivettes,,48.7934532,2.3749709
+Croisement7,Allée Claude Debussy,Rue Claude Debussy,,48.8002616,2.3715156
+Croisement8,Allée Claude Debussy,Sentier Émile Zola,,48.8002616,2.3715156
+Croisement9,Allée de l'Annapurna,Allée de la Vanoise,,48.7816685,2.3927807
+Croisement10,Allée de l'Horizon,Rue du Général Malleret-Joinville,,48.7804772,2.4030719
+Croisement11,Allée de la Petite Faucille,Allée du Petit Tonneau,,48.7911154,2.3890924
+Croisement12,Allée de la Petite Faucille,Passage de la Petite Faucille,,48.7911154,2.3890924
+Croisement13,Allée de Seine,Rue de l'Entente,,48.793879,2.4028642
+Croisement14,Allée des Acacias,Voie Buffon,,48.7948151,2.3895131
+Croisement15,Allée des Noyers,Avenue Rouget de Lisle D5,,48.7763852,2.3969215
+Croisement16,Allée du Coteau,Allée de la Petite Faucille,,48.7907502,2.3895553
+Croisement17,Allée du Coteau,Allée du Puits Farouche,,48.7907502,2.3895553
+Croisement18,Allée du Coteau,Passage de la Petite Faucille,,48.7907502,2.3895553
+Croisement19,Allée du Mail,Avenue Youri Gagarine D5,,48.7852739,2.3926187
+Croisement20,Allée du Petit Tonneau,Allée de la Petite Faucille,,48.79126,2.3900902
+Croisement21,Allée du Poteau,Rue Édouard Tremblay,,48.7817097,2.3710421
+Croisement22,Allée du Puits Farouche,Allée du Petit Tonneau,,48.7905993,2.3910395
+Croisement23,Allée Fernand Léger,Allée Auguste Renoir,,48.7837079,2.3815761
+Croisement24,Allée Gustave Courbet,Allée Fernand Léger,,48.783574,2.3820801
+Croisement25,Allée Jacques de Lépiney,Rue Louis Lachenal,,48.7859188,2.3961596
+Croisement26,Allée Jean Couzy,Rue Lionel Terray,,48.7851094,2.3971393
+Croisement27,Allée Jean Couzy,Rue Louis Lachenal,,48.7851094,2.3971393
+Croisement28,Allée Michel Croz,Rue Lionel Terray,,48.7844717,2.396847
+Croisement29,Allée Pierre Fresnay,Rue Julian Grimau,,48.776642,2.3776918
+Croisement30,Allée Pierre Gaspard,Rue Louis Lachenal,,48.7857495,2.3958656
+Croisement31,Allée Pierre Lamouroux,Boulevard de Stalingrad D5,,48.8002479,2.3815722
+Croisement32,Allée Volta,Rue Georges Martin,,48.7810752,2.4018314
+Croisement33,Avenue Abert Einstein,Rue d'Ivry,,48.8044223,2.4000418
+Croisement34,Avenue Albert Thomas,Avenue Rouget de Lisle D5,,48.7835719,2.3950466
+Croisement35,Avenue Albert Thomas,Rue Camille Blanc,,48.7835719,2.3950466
+Croisement36,Avenue Ambroise Croizat,Allée Arthur Teisseire,,48.7912799,2.392299
+Croisement37,Avenue Ambroise Croizat,Avenue de l'Abbé Roger Derry,,48.7912799,2.392299
+Croisement38,Avenue Ambroise Croizat,Rue du Château,,48.7912799,2.392299
+Croisement39,Avenue Ambroise Croizat,Rue Germain Defresne,,48.7912799,2.392299
+Croisement40,Avenue Ambroise Croizat,Rue Saint-Germain,,48.7912799,2.392299
+Croisement41,Avenue Anatole France D155,Avenue Eva Salmon,,48.8076103,2.4043093
+Croisement42,Avenue Anatole France D155,Avenue Jean Jaurès,Avenue Anatole France D155,48.8076103,2.4043093
+Croisement43,Avenue Anatole France D155,Avenue Paul Vaillant-Couturier D155,,48.8076103,2.4043093
+Croisement44,Avenue Anatole France D155,Avenue Vial,,48.8076103,2.4043093
+Croisement45,Avenue Anatole France D155,Passage Gérard,,48.8076103,2.4043093
+Croisement46,Avenue Anatole France D155,Place Pierre Semard,,48.8076103,2.4043093
+Croisement47,Avenue Anatole France D155,Rue Charles Fourier,,48.8076103,2.4043093
+Croisement48,Avenue Anatole France D155,Rue d'Ivry,,48.8076103,2.4043093
+Croisement49,Avenue Anatole France D155,Rue Jules Ferry,,48.8076103,2.4043093
+Croisement50,Avenue Anatole France D155,Rue Pierre Semard D155,,48.8076103,2.4043093
+Croisement51,Avenue André Maginot,Avenue Ernest Havet,,48.7895666,2.3992648
+Croisement52,Avenue André Maginot,Rue André Visage,,48.7895666,2.3992648
+Croisement53,Avenue André Maginot,Rue Broussais,,48.7895666,2.3992648
+Croisement54,Avenue André Maginot,Rue Camille Groult,,48.7895666,2.3992648
+Croisement55,Avenue André Maginot,Rue d'Alègre,,48.7895666,2.3992648
+Croisement56,Avenue André Maginot,Rue des Marguerites,,48.7895666,2.3992648
+Croisement57,Avenue André Maginot,Rue Paul Bert,,48.7895666,2.3992648
+Croisement58,Avenue André Maginot,Rue Roger Contesenne,,48.7895666,2.3992648
+Croisement59,Avenue Chanzy,Avenue d'Orléans,,48.7979483,2.4010521
+Croisement60,Avenue Chanzy,Avenue de l'Insurrection,,48.7979483,2.4010521
+Croisement61,Avenue Chanzy,Cours de la Gare,,48.7979483,2.4010521
+Croisement62,Avenue Danielle Casanova,Avenue de l'Abbé Roger Derry D155,,48.7904568,2.400765
+Croisement63,Avenue Danielle Casanova,Avenue Guy Môquet,,48.7904568,2.400765
+Croisement64,Avenue Danielle Casanova,Avenue la Bruyère,,48.7904568,2.400765
+Croisement65,Avenue Danielle Casanova,Avenue Paul Vaillant-Couturier D155,,48.7904568,2.400765
+Croisement66,Avenue Danielle Casanova,Rue du 18 Juin 1940,,48.7904568,2.400765
+Croisement67,Avenue Danielle Casanova,Rue Gabriel Péri,,48.7904568,2.400765
+Croisement68,Avenue Danielle Casanova,Rue Marcelin Berthelot,,48.7904568,2.400765
+Croisement69,Avenue Danielle Casanova,Rue Rachel,,48.7904568,2.400765
+Croisement70,Avenue Danielle Casanova,Rue Talma,,48.7904568,2.400765
+Croisement71,Avenue de l'Abbé Roger Derry D155,Avenue Ambroise Croizat,,48.791244,2.3943979
+Croisement72,Avenue de l'Abbé Roger Derry D155,Avenue Youri Gagarine D5,,48.791244,2.3943979
+Croisement73,Avenue de l'Abbé Roger Derry D155,Place de l'Église,,48.791244,2.3943979
+Croisement74,Avenue de l'Abbé Roger Derry D155,Rue Audigeois,,48.791244,2.3943979
+Croisement75,Avenue de l'Abbé Roger Derry D155,Rue Saint-Germain,,48.791244,2.3943979
+Croisement76,Avenue de l'Insurrection,Rue de la Marne,,48.7981106,2.4020997
+Croisement77,Avenue de la Commune de Paris,Allée Arsène Gravier,,48.7830942,2.3908924
+Croisement78,Avenue de la Commune de Paris,Allée du Cèdre,,48.7830942,2.3908924
+Croisement79,Avenue de la Commune de Paris,Avenue du 11 Novembre 1918,,48.7830942,2.3908924
+Croisement80,Avenue de la Commune de Paris,Avenue Lucien Français,,48.7830942,2.3908924
+Croisement81,Avenue de la Commune de Paris,Avenue Rouget de Lisle D5,,48.7830942,2.3908924
+Croisement82,Avenue de la Commune de Paris,Rue de la Petite Saussaie,,48.7830942,2.3908924
+Croisement83,Avenue de la Commune de Paris,Rue Mario Capra,,48.7830942,2.3908924
+Croisement84,Avenue de la Commune de Paris,Rue Pierre et Marie Curie,,48.7830942,2.3908924
+Croisement85,Avenue de la République D224,Avenue Gambetta,,48.8004494,2.399813
+Croisement86,Avenue de la République D224,Avenue Paul Vaillant-Couturier D155,,48.8004494,2.399813
+Croisement87,Avenue de la République D224,Avenue Victor Hugo,,48.8004494,2.399813
+Croisement88,Avenue de la République D224,Place Malik Oussekine,,48.8004494,2.399813
+Croisement89,Avenue de la République D224,Rue Albert Einstein,,48.8004494,2.399813
+Croisement90,Avenue de la République D224,Rue Félix Faure,,48.8004494,2.399813
+Croisement91,Avenue de la République D224,Rue Jean-Baptiste Renoult D223,,48.8004494,2.399813
+Croisement92,Avenue de la République D224,Rue Jules Ferry,,48.8004494,2.399813
+Croisement93,Avenue des Peupliers,Rue du Perreux,,48.7919539,2.4026084
+Croisement94,Avenue des Peupliers,Rue Gabriel Péri,,48.7919539,2.4026084
+Croisement95,Avenue des Platanes,Avenue Victor Hugo,,48.8010944,2.4004292
+Croisement96,Avenue des Platanes,Rue Émile Zola,,48.8010944,2.4004292
+Croisement97,Avenue du 11 Novembre 1918,Avenue Rouget de Lisle D5,,48.7831935,2.3953166
+Croisement98,Avenue du 8 Mai 1945,Avenue Albert Thomas,,48.7844333,2.3982326
+Croisement99,Avenue du 8 Mai 1945,Rue Ampère,,48.7844333,2.3982326
+Croisement100,Avenue du 8 Mai 1945,Rue Camille Blanc,,48.7844333,2.3982326
+Croisement101,Avenue du 8 Mai 1945,Rue de Choisy,,48.7844333,2.3982326
+Croisement102,Avenue du 8 Mai 1945,Rue du 10 Juillet 1940,,48.7844333,2.3982326
+Croisement103,Avenue du Colonel Fabien,Avenue Lemerle Vetter,,48.7843078,2.3791167
+Croisement104,Avenue du Colonel Fabien,Rue Édouard Tremblay,,48.7843078,2.3791167
+Croisement105,Avenue du Colonel Fabien,Rue Paul Armangot,,48.7843078,2.3791167
+Croisement106,Avenue du Colonel Fabien,Rue Verte,,48.7843078,2.3791167
+Croisement107,Avenue du Colonel Fabien,Sentier des Églantiers,,48.7843078,2.3791167
+Croisement108,Avenue du Colonel Fabien,Voie Greuze,,48.7843078,2.3791167
+Croisement109,Avenue du Général Leclerc,Allée du Puits Farouche,,48.7904887,2.3906419
+Croisement110,Avenue du Général Leclerc,Avenue de l'Abbé Roger Derry D155,,48.7904887,2.3906419
+Croisement111,Avenue du Général Leclerc,Passage de la Petite Faucille,,48.7904887,2.3906419
+Croisement112,Avenue du Général Leclerc,Passage du Général Leclerc,,48.7904887,2.3906419
+Croisement113,Avenue du Général Leclerc,Rue Audigeois,,48.7904887,2.3906419
+Croisement114,Avenue du Groupe Manouchian D274,Avenue des Peupliers,,48.7941703,2.4018739
+Croisement115,Avenue du Groupe Manouchian,Avenue Jean Jaurès D148,,48.7941703,2.4018739
+Croisement116,Avenue du Groupe Manouchian D274,Passage de la Gaité,,48.7941703,2.4018739
+Croisement117,Avenue du Groupe Manouchian,Rue de l'Entente,,48.7941703,2.4018739
+Croisement118,Avenue du Groupe Manouchian D274,Rue du Perreux,,48.7941703,2.4018739
+Croisement119,Avenue du Groupe Manouchian D274,Rue Jean-Pierre Timbaud,,48.7941703,2.4018739
+Croisement120,Avenue du Groupe Manouchian D274,Rue Léon Geffroy D274,,48.7941703,2.4018739
+Croisement121,Avenue du Groupe Manouchian D274,Rue Marcelin Berthelot,,48.7941703,2.4018739
+Croisement122,Avenue du Groupe Manouchian D274,Rue Paul Rannou,,48.7941703,2.4018739
+Croisement123,Avenue du Moulin de Saquet D148,Impasse Audran,,48.7914197,2.3821563
+Croisement124,Avenue du Moulin de Saquet D148,Place de la Libération,,48.7914197,2.3821563
+Croisement125,Avenue du Moulin de Saquet D148,Rue Édouard Til,,48.7914197,2.3821563
+Croisement126,Avenue du Moulin de Saquet D148,Voie Bouchardon,,48.7914197,2.3821563
+Croisement127,Avenue du Président Salvador Allende,13,,48.7957817,2.4114063
+Croisement128,Avenue du Président Salvador Allende D148,Avenue Jean Jaurès D148,,48.7962364,2.4157885
+Croisement129,Avenue du Président Salvador Allende D148,Pont du Port à l'Anglais D148,,48.7962364,2.4157885
+Croisement130,Avenue du Président Salvador Allende D148,Quai Jules Guesde D152,,48.7962364,2.4157885
+Croisement131,Avenue du Président Salvador Allende D148,Rue Charles Heller,,48.7962364,2.4157885
+Croisement132,Avenue du Président Salvador Allende D148,Rue Edith Cavell,,48.7962364,2.4157885
+Croisement133,Avenue du Président Salvador Allende D148,Rue Pasteur Prolongée,,48.7962364,2.4157885
+Croisement134,Avenue du Président Salvador Allende D148,D152,,48.7962364,2.4157885
+Croisement135,Avenue du Progrès,Rue du Général Malleret-Joinville,,48.7772414,2.4034091
+Croisement136,Avenue Ernest Havet,Rue Broussais,,48.7882294,2.4025669
+Croisement137,Avenue Ernest Havet,Rue Camille Groult,,48.7882294,2.4025669
+Croisement138,Avenue Ernest Havet,Rue de la Ferme,,48.7882294,2.4025669
+Croisement139,Avenue Ernest Havet,Rue Gabriel Péri,,48.7882294,2.4025669
+Croisement140,Avenue Ernest Havet,Rue Talma,,48.7882294,2.4025669
+Croisement141,Avenue Eugène Pelletan D5,Avenue du Moulin de Saquet D148,,48.7936376,2.3854896
+Croisement142,Avenue Eugène Pelletan D5,Boulevard de Stalingrad D5,,48.7936376,2.3854896
+Croisement143,Avenue Eugène Pelletan D5,Place de la Libération,,48.7936376,2.3854896
+Croisement144,Avenue Eugène Pelletan D5,Rue Charles Infroit,,48.7936376,2.3854896
+Croisement145,Avenue Gambetta,Avenue Chanzy,,48.798714,2.4026823
+Croisement146,Avenue Gambetta,Avenue Paul Vaillant-Couturier D155,,48.798714,2.4026823
+Croisement147,Avenue Guy Môquet,Avenue Danielle Casanova,,48.7894447,2.3974456
+Croisement148,Avenue Guy Môquet,Place Jean Martin,,48.7894447,2.3974456
+Croisement149,Avenue Guy Môquet,Rue Arago,,48.7894447,2.3974456
+Croisement150,Avenue Guy Môquet,Rue Camille Groult,,48.7894447,2.3974456
+Croisement151,Avenue Guy Môquet,Rue de Choisy,,48.7894447,2.3974456
+Croisement152,Avenue Guy Môquet,Rue de Joigny,,48.7894447,2.3974456
+Croisement153,Avenue Guy Môquet,Rue Dupetitval,,48.7894447,2.3974456
+Croisement154,Avenue Guy Môquet,Rue Gounod,,48.7894447,2.3974456
+Croisement155,Avenue Henri Barbusse D148,Place de l'Église,,48.7930324,2.3942481
+Croisement156,Avenue Henri Barbusse D148,Place de la Libération,,48.7930324,2.3942481
+Croisement157,Avenue Henri Barbusse,Rue du Général de Gaulle,,48.7930324,2.3942481
+Croisement158,Avenue Henri Barbusse D148,Rue Germain Defresne,,48.7930324,2.3942481
+Croisement159,Avenue Henri Barbusse D148,Rue Henri de Vilmorin,,48.7930324,2.3942481
+Croisement160,Avenue Jean Jaurès D148,Avenue André Maginot,,48.7945786,2.4028634
+Croisement161,Avenue Jean Jaurès D148,Avenue du Groupe Manouchian,,48.7945786,2.4028634
+Croisement162,Avenue Jean Jaurès D148,Avenue Guy Môquet,,48.7945786,2.4028634
+Croisement163,Avenue Jean Jaurès D148,Avenue Henri Barbusse D148,,48.7945786,2.4028634
+Croisement164,Avenue Jean Jaurès D148,Cité des Combattants,,48.7945786,2.4028634
+Croisement165,Avenue Jean Jaurès D148,Impasse Jean Jaurès,,48.7945786,2.4028634
+Croisement166,Avenue Jean Jaurès D148,Rue d'Odessa,,48.7945786,2.4028634
+Croisement167,Avenue Jean Jaurès D148,Rue des Frères Poirier,,48.7945786,2.4028634
+Croisement168,Avenue Jean Jaurès D148,Rue Désiré Granet,,48.7945786,2.4028634
+Croisement169,Avenue Jean Jaurès D148,Rue Gabriel Péri,,48.7945786,2.4028634
+Croisement170,Avenue Jean Jaurès D148,Rue Louise-Aglaé Cretté,,48.7945786,2.4028634
+Croisement171,Avenue Jean Jaurès D148,Rue Talma,,48.7945786,2.4028634
+Croisement172,Avenue Jean Jaurès,Avenue Anatole France D155,Avenue Jean Jaurès D155,48.8076103,2.4043093
+Croisement173,Avenue la Bruyère,Avenue Ernest Havet,,48.7877224,2.4013638
+Croisement174,Avenue la Bruyère,Rue Blaise Pascal,,48.7877224,2.4013638
+Croisement175,Avenue la Bruyère,Rue Broussais,,48.7877224,2.4013638
+Croisement176,Avenue la Bruyère,Rue Camille Groult,,48.7877224,2.4013638
+Croisement177,Avenue la Bruyère,Rue de la Ferme,,48.7877224,2.4013638
+Croisement178,Avenue la Bruyère,Rue des Ardoines,,48.7877224,2.4013638
+Croisement179,Avenue la Bruyère,Rue Victor Ruiz,,48.7877224,2.4013638
+Croisement180,Avenue Lemerle Vetter,Rue Paul Armangot,,48.7769686,2.3876673
+Croisement181,Avenue Lemerle Vetter,Voie Barye,,48.7769686,2.3876673
+Croisement182,Avenue Lemerle Vetter,Voie Rubens,,48.7769686,2.3876673
+Croisement183,Avenue Louis Blériot,Cours Latham,,48.7858874,2.4080908
+Croisement184,Avenue Lucien Français,Allée du Marronnier,,48.7883595,2.3868709
+Croisement185,Avenue Lucien Français,Avenue de l'Abbé Roger Derry D155,,48.7883595,2.3868709
+Croisement186,Avenue Lucien Français,Avenue de la Commune de Paris,,48.7883595,2.3868709
+Croisement187,Avenue Lucien Français,Rue de Burnley,,48.7883595,2.3868709
+Croisement188,Avenue Maximilien Robespierre D5,Allée de la Petite Faucille,,48.7906455,2.3878628
+Croisement189,Avenue Maximilien Robespierre D5,Allée du Coteau,,48.7906455,2.3878628
+Croisement190,Avenue Maximilien Robespierre D5,Avenue de l'Abbé Roger Derry D155,,48.7906455,2.3878628
+Croisement191,Avenue Maximilien Robespierre D5,Avenue Lucien Français,,48.7906455,2.3878628
+Croisement192,Avenue Maximilien Robespierre D5,Avenue Youri Gagarine D5,,48.7906455,2.3878628
+Croisement193,Avenue Maximilien Robespierre D5,Passage du Général Leclerc,,48.7906455,2.3878628
+Croisement194,Avenue Maximilien Robespierre D5,Place de la Libération,,48.7906455,2.3878628
+Croisement195,Avenue Maximilien Robespierre D5,Rue Audigeois,,48.7906455,2.3878628
+Croisement196,Avenue Maximilien Robespierre D5,Rue Édouard Tremblay,,48.7906455,2.3878628
+Croisement197,Avenue Paul Vaillant-Couturier D155,Avenue Anatole France D155,,48.7916381,2.3947836
+Croisement198,Avenue Paul Vaillant-Couturier D155,Avenue André Maginot,,48.7916381,2.3947836
+Croisement199,Avenue Paul Vaillant-Couturier D155,Avenue de l'Abbé Roger Derry D155,,48.7916381,2.3947836
+Croisement200,Avenue Paul Vaillant-Couturier D155,Avenue de l'Insurrection,,48.7916381,2.3947836
+Croisement201,Avenue Paul Vaillant-Couturier D155,Avenue de la République D224,,48.7916381,2.3947836
+Croisement202,Avenue Paul Vaillant-Couturier D155,Avenue du Parc,,48.8000593,2.4014464
+Croisement203,Avenue Paul Vaillant-Couturier D155,Avenue Gambetta,,48.8000593,2.4014464
+Croisement204,Avenue Paul Vaillant-Couturier D155,Avenue Henri Barbusse D148,,48.8000593,2.4014464
+Croisement205,Avenue Paul Vaillant-Couturier D155,Avenue Jean Jaurès D148,,48.8000593,2.4014464
+Croisement206,Avenue Paul Vaillant-Couturier D155,Cité des Combattants,,48.8000593,2.4014464
+Croisement207,Avenue Paul Vaillant-Couturier D155,Cours de la Gare,,48.8000593,2.4014464
+Croisement208,Avenue Paul Vaillant-Couturier D155,Place Pierre Semard,,48.8000593,2.4014464
+Croisement209,Avenue Paul Vaillant-Couturier D155,Rue Charles Infroit,,48.8000593,2.4014464
+Croisement210,Avenue Paul Vaillant-Couturier D155,Rue de l'Église,,48.8000593,2.4014464
+Croisement211,Avenue Paul Vaillant-Couturier D155,Rue Désiré Granet,,48.8000593,2.4014464
+Croisement212,Avenue Paul Vaillant-Couturier D155,Rue du Maréchal Foch,,48.8000593,2.4014464
+Croisement213,Avenue Paul Vaillant-Couturier D155,Rue Franklin,,48.8000593,2.4014464
+Croisement214,Avenue Paul Vaillant-Couturier D155,Rue Gabriel Péri,,48.8000593,2.4014464
+Croisement215,Avenue Paul Vaillant-Couturier D155,Rue Henri Poincaré,,48.8000593,2.4014464
+Croisement216,Avenue Paul Vaillant-Couturier D155,Rue Jules Ferry,,48.8000593,2.4014464
+Croisement217,Avenue Paul Vaillant-Couturier D155,Rue Louise-Aglaé Cretté,,48.8000593,2.4014464
+Croisement218,Avenue Paul Vaillant-Couturier D155,Rue Neuve,,48.8000593,2.4014464
+Croisement219,Avenue Pierre Brossolette,Avenue Vial,,48.8027025,2.4025399
+Croisement220,Avenue Pierre Brossolette,Rue d'Ivry,,48.8027025,2.4025399
+Croisement221,Avenue Rabelais,Rue Henri Matisse,,48.7814117,2.3903427
+Croisement222,Avenue Rabelais,Rue Mario Capra,,48.7814117,2.3903427
+Croisement223,Avenue Rabelais,Voie des Blondeaux,,48.7814117,2.3903427
+Croisement224,Avenue Rabelais,Voie Rodin,,48.7814117,2.3903427
+Croisement225,Avenue Rouget de Lisle D5,Avenue du 11 Novembre 1918,,48.7824098,2.3941089
+Croisement226,Avenue Rouget de Lisle D5,Rue Voltaire,,48.7824098,2.3941089
+Croisement227,Avenue Rouget de Lisle D5,Rue Watteau,,48.7824098,2.3941089
+Croisement228,Avenue Rouget de Lisle D5,Sente des Plâtrières,,48.7824098,2.3941089
+Croisement229,Avenue Vial,Avenue Pierre Brossolette,,48.80371,2.4026739
+Croisement230,Avenue Vial,Rue Chevreul,,48.80371,2.4026739
+Croisement231,Avenue Victor Hugo,Avenue des Platanes,,48.8012165,2.3996772
+Croisement232,Avenue Victor Hugo,Rue Jules Ferry,,48.8012165,2.3996772
+Croisement233,Avenue Youri Gagarine D5,Avenue de l'Abbé Roger Derry D155,,48.786887,2.3909734
+Croisement234,Avenue Youri Gagarine D5,Avenue Lucien Français,,48.786887,2.3909734
+Croisement235,Avenue Youri Gagarine D5,Avenue Rouget de Lisle D5,,48.786887,2.3909734
+Croisement236,Avenue Youri Gagarine D5,Rue de Kladno,,48.786887,2.3909734
+Croisement237,Avenue Youri Gagarine D5,Rue de la Petite Saussaie,,48.786887,2.3909734
+Croisement238,Avenue Youri Gagarine D5,Rue Mario Capra,,48.786887,2.3909734
+Croisement239,Boulevard de Stalingrad D5,Allée des Sophoras,,48.8029467,2.3779678
+Croisement240,Boulevard de Stalingrad D5,Allée Pierre Lamouroux,,48.8029467,2.3779678
+Croisement241,Boulevard de Stalingrad D5,Avenue de Verdun D5,,48.8029467,2.3779678
+Croisement242,Boulevard de Stalingrad D5,Avenue Eugène Pelletan D5,,48.8029467,2.3779678
+Croisement243,Boulevard de Stalingrad D5,Rue des Pavillons,,48.8029467,2.3779678
+Croisement244,Boulevard de Stalingrad D5,Rue Erik Satie,,48.8029467,2.3779678
+Croisement245,Boulevard de Stalingrad D5,Rue Gagnée,,48.8029467,2.3779678
+Croisement246,Boulevard de Stalingrad D5,Rue Germain Pinson,,48.8029467,2.3779678
+Croisement247,Boulevard de Stalingrad D5,Rue Germaine Tailleferre,,48.8029467,2.3779678
+Croisement248,Boulevard de Stalingrad D5,Rue Ludwig van Beethoven,,48.8029467,2.3779678
+Croisement249,Boulevard de Stalingrad D5,Rue Michelet,,48.8029467,2.3779678
+Croisement250,Boulevard de Stalingrad D5,Ruelle du Fossé Vert,,48.8029467,2.3779678
+Croisement251,Boulevard de Stalingrad D5,Sentier du Champ Canné,,48.8029467,2.3779678
+Croisement252,Canal Fleuri,Avenue Lemerle Vetter,,48.7740654,2.3864752
+Croisement253,Canal Fleuri,Rue Julian Grimau,,48.7740654,2.3864752
+Croisement254,Chemin Latéral,Rue Pasteur,,0.0,0.0
+Croisement255,Chemin Latéral,Rue Pierre Semard,,0.0,0.0
+Croisement256,Cours de la Gare,Avenue Anatole France D155,,48.8002658,2.402313
+Croisement257,Cours de la Gare,Avenue Paul Vaillant-Couturier D155,,48.8002658,2.402313
+Croisement258,Cours de la Gare,Place Pierre Semard,,48.8002658,2.402313
+Croisement259,Cours de la Gare,Rue Jules Ferry,,48.8002658,2.402313
+Croisement260,Cours Farman,Cours Latham,,48.787171,2.4076412
+Croisement261,Esplanade Pour le Respect de l'Égalité Sohane Benziane,Rue Balzac,,48.7782978,2.400806
+Croisement262,Esplanade Pour le Respect de l'Égalité Sohane Benziane,Sente Flora Tristan,,48.7782978,2.400806
+Croisement263,Impasse André Kommer,Rue Édouard Tremblay,,48.783156,2.3764106
+Croisement264,Impasse de la Voie de Thiais,Rue Julian Grimau,,48.7794259,2.3762462
+Croisement265,Impasse des Artisans,Cité des Rosiers,,48.7953878,2.4015181
+Croisement266,Impasse des Ateliers,Rue Léon Mauvais,,48.7830896,2.4147424
+Croisement267,Impasse des Sablons,Voie Charcot,,48.7960327,2.3736168
+Croisement268,Impasse des Sablons,Voie Élie Gras,,48.7960327,2.3736168
+Croisement269,Impasse des Sablons,Voie Jacques Thibaud,,48.7960327,2.3736168
+Croisement270,Impasse du Mont,Rue Édouard Tremblay,,48.7847829,2.3775898
+Croisement271,Impasse Giotto,Rue Édouard Tremblay,,48.7828243,2.3754709
+Croisement272,Impasse Guy de Maupassant,Rue Pergolèse,,48.7977043,2.3773969
+Croisement273,Impasse Guy de Maupassant,Voie Rameau,,48.7977043,2.3773969
+Croisement274,Impasse Jean Jaurès,Mail Arsène Tchakarian,,48.7935256,2.4056058
+Croisement275,Impasse Marie Sorin Defresne,Rue de la Concorde,,48.7991821,2.3823381
+Croisement276,Impasse Marie-Rose,Rue Édouard Tremblay,,48.7836422,2.3746964
+Croisement277,Juliane Chakravorty,Rue Demanieux,,48.7734985,2.4015812
+Croisement278,Le Hameau du Coteau,Rue Gérard Philipe,,48.7754638,2.3761424
+Croisement279,Le Hameau du Coteau,Rue Gérard Philippe,,48.7754638,2.3761424
+Croisement280,Mail Arsène Tchakarian,Impasse Jean Jaurès,,48.7944599,2.403186
+Croisement281,Passage Béla Bartòk,Rue des Malassis,,48.7989683,2.3752532
+Croisement282,Passage Béla Bartòk,Voie Gluck,,48.7989683,2.3752532
+Croisement283,Passage de la Gaité,Rue de la Gaité,,48.7920272,2.4040582
+Croisement284,Passage du Colonel Fabien,Avenue du Colonel Fabien,,48.787516,2.3777192
+Croisement285,Passage du Général Leclerc,Avenue du Général Leclerc,,48.7902379,2.3891755
+Croisement286,Passage Gérard,Avenue Pierre Brossolette,,48.8044495,2.4045013
+Croisement287,Passage Louise Michel,Rue de la Concorde,,48.7992083,2.3848754
+Croisement288,Place Anne-Claude Godeau,Rue Eugène Derrien,,48.7725407,2.376464
+Croisement289,Place de l'Église,Avenue de l'Abbé Roger Derry,,48.7914514,2.3941601
+Croisement290,Place de l'Église,Avenue Henri Barbusse,,48.7914514,2.3941601
+Croisement291,Place de l'Église,Rue Montebello,,48.7914514,2.3941601
+Croisement292,Place de la Libération,Avenue Henri Barbusse D148,,48.7922832,2.3867955
+Croisement293,Place de la Liberté,Rue du Professeur Calmette,,48.8004267,2.3868523
+Croisement294,Place des Roses,Rue Bizet,,48.8012858,2.3716473
+Croisement295,Place du 19 Mars 1962,Avenue André Maginot,,48.7907958,2.3986875
+Croisement296,Place du 19 Mars 1962,Avenue Danielle Casanova,,48.7907958,2.3986875
+Croisement297,Place du 19 Mars 1962,Rue Roger Contesenne,,48.7907958,2.3986875
+Croisement298,Place Jean Martin,Avenue du Parc,,48.7922287,2.3957735
+Croisement299,Place Paul Froment,Avenue Ernest Havet,,48.7863033,2.4023373
+Croisement300,Place Paul Froment,Avenue la Bruyère,,48.7863033,2.4023373
+Croisement301,Place Paul Froment,Rue des Ardoines,,48.7863033,2.4023373
+Croisement302,Place Paul Froment,Rue Paul Bert,,48.7863033,2.4023373
+Croisement303,Place Pierre Semard,Avenue Anatole France D155,,48.8010398,2.402264
+Croisement304,Pont du Port à l'Anglais D148,Chemin de Halage,,48.7972942,2.418785
+Croisement305,Pont du Port à l'Anglais D148,La Seine,,48.7972942,2.418785
+Croisement306,Quai Auguste Deshaies D152,Rue du Port à l'Anglais,,48.8053402,2.4081034
+Croisement307,Quai Jules Guesde D152,13,,48.8014165,2.4120283
+Croisement308,Quai Jules Guesde D152,Avenue du Président Salvador Allende D148,,48.8014165,2.4120283
+Croisement309,Quai Jules Guesde D152,Chemin de Halage,,48.8014165,2.4120283
+Croisement310,Quai Jules Guesde D152,Quai Auguste Deshaies D152,,48.8014165,2.4120283
+Croisement311,Quai Jules Guesde D152,Quai Henri Pourchasse D152,,48.8014165,2.4120283
+Croisement312,Quai Jules Guesde D152,Rue Auguste Blanqui,,48.8014165,2.4120283
+Croisement313,Quai Jules Guesde D152,Rue Charles Fourier,,48.8014165,2.4120283
+Croisement314,Quai Jules Guesde D152,Rue Constantin,,48.8014165,2.4120283
+Croisement315,Quai Jules Guesde D152,Rue d'Algésiras,,48.8014165,2.4120283
+Croisement316,Quai Jules Guesde D152,Rue de la Baignade,,48.8014165,2.4120283
+Croisement317,Quai Jules Guesde D152,Rue de Seine,,48.8014165,2.4120283
+Croisement318,Quai Jules Guesde D152,Rue des Fusillés,,48.8014165,2.4120283
+Croisement319,Quai Jules Guesde D152,Rue du Port à l'Anglais,,48.8014165,2.4120283
+Croisement320,Quai Jules Guesde D152,Rue Eugène Hénaff,,48.8014165,2.4120283
+Croisement321,Quai Jules Guesde D152,Rue Léon Mauvais,,48.8014165,2.4120283
+Croisement322,Quai Jules Guesde D152,Rue Rosa Parks,,48.8014165,2.4120283
+Croisement323,Quai Jules Guesde D152,Rue Saint-Simon,,48.8014165,2.4120283
+Croisement324,Quai Jules Guesde D152,Rue Vercingétorix,,48.8014165,2.4120283
+Croisement325,Quai Jules Guesde D152,Rue Waldeck Rousseau,,48.8014165,2.4120283
+Croisement326,Route de Fontainebleau D7,Avenue de Fontainebleau D7,,48.7756375,2.3677063
+Croisement327,Route de Fontainebleau D7,Rue des Pépinières,,48.7756375,2.3677063
+Croisement328,Rue Alfred de Musset,Rue George Sand,,48.799862,2.4070806
+Croisement329,Rue Alfred de Musset,Rue Nobel,,48.799862,2.4070806
+Croisement330,Rue Alfred de Musset,Rue Pasteur,,48.799862,2.4070806
+Croisement331,Rue Alfred de Musset,Rue Pierre Semard,,48.799862,2.4070806
+Croisement332,Rue Ampère,Rue Anselme Rondenay,,48.7808034,2.399538
+Croisement333,Rue Ampère,Rue du 10 Juillet 1940,,48.7808034,2.399538
+Croisement334,Rue Ampère,Rue Frédéric Joliot Curie,,48.7808034,2.399538
+Croisement335,Rue Ampère,Rue Grétillat,,48.7808034,2.399538
+Croisement336,Rue Ampère,Rue Jean Perrin,,48.7808034,2.399538
+Croisement337,Rue Ampère,Rue Paul Langevin,,48.7808034,2.399538
+Croisement338,Rue André Malraux,Rue du Général de Gaulle,,48.7967394,2.391402
+Croisement339,Rue André Malraux,Rue Lavoisier,,48.7967394,2.391402
+Croisement340,Rue André Malraux,Rue Réaumur,,48.7967394,2.391402
+Croisement341,Rue André Malraux,Villa Bellevue,,48.7967394,2.391402
+Croisement342,Rue André Malraux,Voie Broca,,48.7967394,2.391402
+Croisement343,Rue André Visage,Avenue Guy Môquet,,48.7918968,2.3990679
+Croisement344,Rue André Visage,Rue Gabriel Péri,,48.7918968,2.3990679
+Croisement345,Rue Anselme Rondenay,Avenue Rouget de Lisle D5,,48.7803675,2.4013489
+Croisement346,Rue Anselme Rondenay,Rue Balzac,,48.7803675,2.4013489
+Croisement347,Rue Anselme Rondenay,Rue Constant Coquelin,,48.7803675,2.4013489
+Croisement348,Rue Anselme Rondenay,Rue du Général Malleret-Joinville,,48.7803675,2.4013489
+Croisement349,Rue Anselme Rondenay,Rue Watteau,,48.7803675,2.4013489
+Croisement350,Rue Antoine Bourdelle,Rue Édouard Tremblay,,48.7837843,2.3738553
+Croisement351,Rue Antoine Marie Colin,Avenue de l'Abbé Roger Derry D155,,48.7882873,2.3928352
+Croisement352,Rue Antoine Marie Colin,Rue de la Glacière,,48.7882873,2.3928352
+Croisement353,Rue Antoine Mimerel,Rue Georges Guynemer,,48.772325,2.3745644
+Croisement354,Rue Antoine Mimerel,Rue Peau d'Âne,,48.772325,2.3745644
+Croisement355,Rue Arago,Avenue André Maginot,,48.789688,2.3987502
+Croisement356,Rue Arago,Avenue Guy Môquet,,48.789688,2.3987502
+Croisement357,Rue Arago,Avenue la Bruyère,,48.789688,2.3987502
+Croisement358,Rue Auber,Rue Claude Debussy,,48.8024309,2.3746865
+Croisement359,Rue Auber,Rue de Gournay,,48.8024309,2.3746865
+Croisement360,Rue Auber,Rue Donizetti,,48.8024309,2.3746865
+Croisement361,Rue Auber,Rue Erik Satie,,48.8024309,2.3746865
+Croisement362,Rue Auber,Rue Molière,,48.8024309,2.3746865
+Croisement363,Rue Auber,Rue Robert Degert,,48.8024309,2.3746865
+Croisement364,Rue Audigeois,Allée de la Petite Faucille,,48.7906289,2.3919886
+Croisement365,Rue Audigeois,Allée du Petit Tonneau,,48.7906289,2.3919886
+Croisement366,Rue Audigeois,Avenue de l'Abbé Roger Derry D155,,48.7906289,2.3919886
+Croisement367,Rue Audigeois,Avenue du Général Leclerc,,48.7906289,2.3919886
+Croisement368,Rue Audigeois,Place de la Heunière,,48.7906289,2.3919886
+Croisement369,Rue Audigeois,Place de la Libération,,48.7906289,2.3919886
+Croisement370,Rue Audigeois,Rue Germain Defresne,,48.7906289,2.3919886
+Croisement371,Rue Audigeois,Rue Henri de Vilmorin,,48.7906289,2.3919886
+Croisement372,Rue Audran,Rue des Noriets,,48.795028,2.3807959
+Croisement373,Rue Auguste Blanqui,Avenue Jean Jaurès,Avenue Anatole France D155,48.8063881,2.4062037
+Croisement374,Rue Auguste Blanqui,Quai Auguste Deshaies D152,,48.8063881,2.4062037
+Croisement375,Rue Auguste Blanqui,Rue Constantin,,48.8063881,2.4062037
+Croisement376,Rue Auguste Blanqui,Rue Franck Chauveau,,48.8063881,2.4062037
+Croisement377,Rue Balzac,Avenue du Progrès,,48.7758582,2.4017123
+Croisement378,Rue Balzac,Esplanade Pour le Respect de l'Égalité Sohane Benziane,,48.7758582,2.4017123
+Croisement379,Rue Balzac,Rue Anselme Rondenay,,48.7758582,2.4017123
+Croisement380,Rue Balzac,Rue Olympe de Gouges,,48.7758582,2.4017123
+Croisement381,Rue Balzac,Rue Voltaire,,48.7758582,2.4017123
+Croisement382,Rue Bellevue,Allée Claude Debussy,,48.7996297,2.3710661
+Croisement383,Rue Bellevue,Sentier Émile Zola,,48.7996297,2.3710661
+Croisement384,Rue Bellevue,Villa Donizetti,,48.7996297,2.3710661
+Croisement385,Rue Berlioz,Allée Chabrier,,48.7928358,2.3763214
+Croisement386,Rue Berlioz,Rue Camélinat,,48.7928358,2.3763214
+Croisement387,Rue Berlioz,Rue Lecocq,,48.7928358,2.3763214
+Croisement388,Rue Berlioz,Rue Mozart,,48.7928358,2.3763214
+Croisement389,Rue Berlioz,Sente de la Crétaine,,48.7928358,2.3763214
+Croisement390,Rue Berlioz,Sente du Héron,,48.7928358,2.3763214
+Croisement391,Rue Berlioz,Voie Arthur Honegger,,48.7928358,2.3763214
+Croisement392,Rue Berlioz,Voie Méhul,,48.7928358,2.3763214
+Croisement393,Rue Berlioz,Voie Schumann,,48.7928358,2.3763214
+Croisement394,Rue Berthie Albrecht,Chemin de Halage,,48.7986275,2.4088666
+Croisement395,Rue Berthie Albrecht,Quai Jules Guesde D152,,48.7986275,2.4088666
+Croisement396,Rue Berthie Albrecht,Rue Edith Cavell,,48.7986275,2.4088666
+Croisement397,Rue Bizet,Rue Beaumarchais,,48.7979197,2.3710968
+Croisement398,Rue Bizet,Rue Condorcet,,48.7979197,2.3710968
+Croisement399,Rue Bizet,Rue des Malassis,,48.7979197,2.3710968
+Croisement400,Rue Bizet,Rue Donizetti,,48.7979197,2.3710968
+Croisement401,Rue Bizet,Sentier Paul Lafargue,,48.7979197,2.3710968
+Croisement402,Rue Bizet,Voie Alphonse Daudet,,48.7979197,2.3710968
+Croisement403,Rue Bizet,Voie Gluck,,48.7979197,2.3710968
+Croisement404,Rue Blaise Pascal,Avenue Ernest Havet,,48.7837025,2.4040851
+Croisement405,Rue Blanche Festeau,Rue Antoine Mimerel,,48.7717999,2.3747667
+Croisement406,Rue Blanche Festeau,Rue Frédéric Mistral Prolongée,,48.7717999,2.3747667
+Croisement407,Rue Blanche Festeau,Rue Georges Guynemer,,48.7717999,2.3747667
+Croisement408,Rue Boieldieu,Impasse Boieldieu,,48.8017264,2.3740182
+Croisement409,Rue Boieldieu,Rue Claude Debussy,,48.8017264,2.3740182
+Croisement410,Rue Boieldieu,Rue des Malassis,,48.8017264,2.3740182
+Croisement411,Rue Boieldieu,Rue Donizetti,,48.8017264,2.3740182
+Croisement412,Rue Boieldieu,Sentier Rouxel,,48.8017264,2.3740182
+Croisement413,Rue Boieldieu,Voie Gluck,,48.8017264,2.3740182
+Croisement414,Rue Broussais,Avenue Ernest Havet,,48.7842734,2.4037232
+Croisement415,Rue Broussais,Rue des Ardoines,,48.7842734,2.4037232
+Croisement416,Rue Broussais,Rue Talma,,48.7842734,2.4037232
+Croisement417,Rue Bruno Braun,Rue des Trois Frères Mimerel,,48.7734994,2.374319
+Croisement418,Rue Camélinat,Avenue du Moulin de Saquet D148,,48.7899397,2.3753087
+Croisement419,Rue Camille Blanc,Avenue Albert Thomas,,48.7854138,2.3949471
+Croisement420,Rue Camille Blanc,Avenue du 11 Novembre 1918,,48.7854138,2.3949471
+Croisement421,Rue Camille Blanc,Rue Ampère,,48.7854138,2.3949471
+Croisement422,Rue Camille Blanc,Rue Clément Perrot,,48.7854138,2.3949471
+Croisement423,Rue Camille Blanc,Rue de Bourgogne,,48.7854138,2.3949471
+Croisement424,Rue Camille Blanc,Rue Louis Lachenal,,48.7854138,2.3949471
+Croisement425,Rue Camille Blanc,Rue Louis Marchandise,,48.7854138,2.3949471
+Croisement426,Rue Camille Groult,Allée du Mail,,48.7868827,2.3950081
+Croisement427,Rue Camille Groult,Avenue André Maginot,,48.7868827,2.3950081
+Croisement428,Rue Camille Groult,Avenue la Bruyère,,48.7868827,2.3950081
+Croisement429,Rue Camille Groult,Avenue Youri Gagarine D5,,48.7868827,2.3950081
+Croisement430,Rue Camille Groult,Clos Pierina,,48.7868827,2.3950081
+Croisement431,Rue Camille Groult,Passage Irène et Frédéric Joliot-Curie,,48.7868827,2.3950081
+Croisement432,Rue Camille Groult,Place des Martyrs de la Déportation,,48.7868827,2.3950081
+Croisement433,Rue Camille Groult,Rue Antoine Marie Colin,,48.7868827,2.3950081
+Croisement434,Rue Camille Groult,Rue Camille Blanc,,48.7868827,2.3950081
+Croisement435,Rue Camille Groult,Rue Clément Perrot,,48.7868827,2.3950081
+Croisement436,Rue Camille Groult,Rue de Choisy,,48.7868827,2.3950081
+Croisement437,Rue Camille Groult,Rue de la Petite Saussaie,,48.7868827,2.3950081
+Croisement438,Rue Camille Groult,Rue du 10 Juillet 1940,,48.7868827,2.3950081
+Croisement439,Rue Camille Groult,Rue Gabriel Péri,,48.7868827,2.3950081
+Croisement440,Rue Camille Groult,Rue Talma,,48.7868827,2.3950081
+Croisement441,Rue Camille Juglar,Rue Antoine Mimerel,,48.7720967,2.3741929
+Croisement442,Rue Camille Juglar,Rue Frédéric Mistral,,48.7720967,2.3741929
+Croisement443,Rue Camille Risch,Rue de France,,48.7745,2.3735135
+Croisement444,Rue Camille Risch,Rue Pauline Lacroix,,48.7745,2.3735135
+Croisement445,Rue Carpeaux,Avenue du Moulin de Saquet D148,,48.7889998,2.3808911
+Croisement446,Rue Carpeaux,Rue Corot,,48.7889998,2.3808911
+Croisement447,Rue Carpeaux,Voie Coypel,,48.7889998,2.3808911
+Croisement448,Rue Cendrillon,Rue Antoine Mimerel,,48.7726909,2.3754852
+Croisement449,Rue Champollion,Rue Arthur Rimbaud,,48.8025737,2.3836155
+Croisement450,Rue Champollion,Rue de la Concorde,,48.8025737,2.3836155
+Croisement451,Rue Champollion,Rue de la Fraternité,,48.8025737,2.3836155
+Croisement452,Rue Champollion,Rue Eugène Varlin,,48.8025737,2.3836155
+Croisement453,Rue Champollion,Rue Federico Garcia Lorca,,48.8025737,2.3836155
+Croisement454,Rue Champollion,Rue Gagnée - Rue Amédée Huon,,48.8025737,2.3836155
+Croisement455,Rue Champollion,Rue Larrey,,48.8025737,2.3836155
+Croisement456,Rue Champollion,Rue Marie Sorin Defresne,,48.8025737,2.3836155
+Croisement457,Rue Champollion,Voie Pinel,,48.8025737,2.3836155
+Croisement458,Rue Chaptal,Rue des Blancs Murs,,48.7964722,2.3892763
+Croisement459,Rue Charles Bessé,Avenue Rouget de Lisle D5,,48.7749237,2.398346
+Croisement460,Rue Charles Fourier,Rue Aimé Césaire,,48.8026308,2.4065202
+Croisement461,Rue Charles Fourier,Rue Edith Cavell,,48.8026308,2.4065202
+Croisement462,Rue Charles Fourier,Rue Édouard Vaillant,,48.8026308,2.4065202
+Croisement463,Rue Charles Fourier,Sente Marguerite Duras,,48.8026308,2.4065202
+Croisement464,Rue Charles Heller,Rue des Fusillés,,48.7899758,2.4114967
+Croisement465,Rue Charles Infroit,Avenue Paul Vaillant-Couturier D155,,48.7953884,2.3906599
+Croisement466,Rue Charles Infroit,Boulevard de Stalingrad D5,,48.7953884,2.3906599
+Croisement467,Rue Charles Infroit,Rue André Malraux,,48.7953884,2.3906599
+Croisement468,Rue Charles Infroit,Rue Charles Floquet,,48.7953884,2.3906599
+Croisement469,Rue Charles Infroit,Rue des Blancs Murs,,48.7953884,2.3906599
+Croisement470,Rue Charles Infroit,Rue des Prés,,48.7953884,2.3906599
+Croisement471,Rue Charles Infroit,Rue du Fort,,48.7953884,2.3906599
+Croisement472,Rue Charles Infroit,Rue du Général de Gaulle,,48.7953884,2.3906599
+Croisement473,Rue Charles Infroit,Rue Gabriel Péri,,48.7953884,2.3906599
+Croisement474,Rue Charles Infroit,Rue Germain Defresne,,48.7953884,2.3906599
+Croisement475,Rue Charles Infroit,Rue Henri de Vilmorin,,48.7953884,2.3906599
+Croisement476,Rue Charles Infroit,Rue Henri Poincaré,,48.7953884,2.3906599
+Croisement477,Rue Charles Infroit,Rue Louise-Aglaé Cretté,,48.7953884,2.3906599
+Croisement478,Rue Charles Infroit,Sentier Tissebarbe,,48.7953884,2.3906599
+Croisement479,Rue Charles Infroit,Voie Buffon,,48.7953884,2.3906599
+Croisement480,Rue Christine de Pizan,Rue Balzac,,48.7791922,2.4007598
+Croisement481,Rue Claude Debussy,Rue Boieldieu,,48.8025887,2.3737632
+Croisement482,Rue Claude Debussy,Sentier Rouxel,,48.8025887,2.3737632
+Croisement483,Rue Clément Perrot,Avenue de l'Abbé Roger Derry D155,,48.7880576,2.3917695
+Croisement484,Rue Clément Perrot,Rue de la Glacière,,48.7880576,2.3917695
+Croisement485,Rue Colette,Rue Anselme Rondenay,,48.7795465,2.4012105
+Croisement486,Rue Colette,Rue Christine de Pizan,,48.7795465,2.4012105
+Croisement487,Rue Condorcet,Rue Paul Rannou,,48.7900839,2.4039617
+Croisement488,Rue Constant Coquelin,Avenue Rouget de Lisle D5,,48.7795906,2.3967048
+Croisement489,Rue Constant Coquelin,Juliane Chakravorty,,48.7795906,2.3967048
+Croisement490,Rue Constant Coquelin,Rue Anselme Rondenay,,48.7795906,2.3967048
+Croisement491,Rue Constant Coquelin,Rue Balzac,,48.7795906,2.3967048
+Croisement492,Rue Constant Coquelin,Rue Voltaire,,48.7795906,2.3967048
+Croisement493,Rue Constant Coquelin,Sente des Plâtrières,,48.7795906,2.3967048
+Croisement494,Rue Constantin,Avenue Jean Jaurès,Avenue Anatole France D155,48.8072949,2.4060887
+Croisement495,Rue Constantin,Impasse Constantin,,48.8072949,2.4060887
+Croisement496,Rue Constantin,Villa Constantin,,48.8072949,2.4060887
+Croisement497,Rue Constantin,Villa des Fleurs,,48.8072949,2.4060887
+Croisement498,Rue Corot,Sentier des Tuileries,,48.7879997,2.3799048
+Croisement499,Rue Corot,Voie Claude Monet,,48.7879997,2.3799048
+Croisement500,Rue Cujas,Rue des Carrières,,48.798891,2.3890474
+Croisement501,Rue Cuvier,Rue des Blancs Murs,,48.7979128,2.3890487
+Croisement502,Rue Cuvier,Villa Bellevue,,48.7979128,2.3890487
+Croisement503,Rue d'Alègre,Avenue Guy Môquet,,48.7924508,2.3988221
+Croisement504,Rue d'Alègre,Rue des Frères Poirier,,48.7924508,2.3988221
+Croisement505,Rue d'Alègre,Rue du Perreux,,48.7924508,2.3988221
+Croisement506,Rue d'Alègre,Rue Gabriel Péri,,48.7924508,2.3988221
+Croisement507,Rue d'Algésiras,Rue Aimé Césaire,,48.8020451,2.4084546
+Croisement508,Rue d'Algésiras,Rue Edith Cavell,,48.8020451,2.4084546
+Croisement509,Rue d'Odessa,Rue du Colonel Moll,,48.7949785,2.4038079
+Croisement510,Rue de Burnley,Avenue Lucien Français,,48.7872423,2.3875774
+Croisement511,Rue de Choisy,Avenue Ernest Havet,,48.7819119,2.4024891
+Croisement512,Rue de Choisy,Impasse d'Oncy,,48.7819119,2.4024891
+Croisement513,Rue de Choisy,Rue Anselme Rondenay,,48.7819119,2.4024891
+Croisement514,Rue de Choisy,Rue Broussais,,48.7819119,2.4024891
+Croisement515,Rue de Choisy,Rue Camille Groult,,48.7819119,2.4024891
+Croisement516,Rue de Choisy,Rue du Général Malleret-Joinville,,48.7819119,2.4024891
+Croisement517,Rue de Choisy,Rue Grétillat,,48.7819119,2.4024891
+Croisement518,Rue de France,Rue du Moulin Vert,,48.7736013,2.3718928
+Croisement519,Rue de Gournay,Rue Émile Bastard,,48.8039346,2.3720192
+Croisement520,Rue de Gournay,Rue Émile Zola,,48.8039346,2.3720192
+Croisement521,Rue de Kladno,Rue de Meissen,,48.7882085,2.3890377
+Croisement522,Rue de l'Argonne,Rue de la Marne,,48.7956483,2.4009303
+Croisement523,Rue de l'Argonne,Rue de la Somme,,48.7956483,2.4009303
+Croisement524,Rue de l'Église,Avenue du Parc,,48.7917571,2.3943444
+Croisement525,Rue de l'Église,Place de l'Église,,48.7917571,2.3943444
+Croisement526,Rue de l'Église,Rue Montebello,,48.7917571,2.3943444
+Croisement527,Rue de l'Entente,Avenue Jean Jaurès D148,,48.7932781,2.4036736
+Croisement528,Rue de l'Entente,Impasse Jean Jaurès,,48.7932781,2.4036736
+Croisement529,Rue de l'Entente,Mail Arsène Tchakarian,,48.7932781,2.4036736
+Croisement530,Rue de l'Entente,Passage de la Gaité,,48.7932781,2.4036736
+Croisement531,Rue de l'Entente,Rue de la Gaité,,48.7932781,2.4036736
+Croisement532,Rue de l'Entente,Rue de la Paix,,48.7932781,2.4036736
+Croisement533,Rue de la Concorde,Boulevard de Stalingrad D5,,48.7998377,2.3861613
+Croisement534,Rue de la Concorde,Place de la Liberté,,48.7998377,2.3861613
+Croisement535,Rue de la Concorde,Rue Ludwig van Beethoven,,48.7998377,2.3861613
+Croisement536,Rue de la Ferme,Avenue André Maginot,,48.7874093,2.4014712
+Croisement537,Rue de la Ferme,Rue de Choisy,,48.7874093,2.4014712
+Croisement538,Rue de la Ferme,Rue Gabriel Péri,,48.7874093,2.4014712
+Croisement539,Rue de la Ferme,Rue Talma,,48.7874093,2.4014712
+Croisement540,Rue de la Fraternité,Allée Jean Bécot,,48.8019015,2.3825483
+Croisement541,Rue de la Fraternité,Place de la Liberté,,48.8019015,2.3825483
+Croisement542,Rue de la Fraternité,Rue Champollion,,48.8019015,2.3825483
+Croisement543,Rue de la Glacière,Allée du Mail,,48.7877218,2.3913423
+Croisement544,Rue de la Glacière,Avenue Youri Gagarine D5,,48.7877218,2.3913423
+Croisement545,Rue de la Marne,Rue d'Odessa,,48.79676,2.4031542
+Croisement546,Rue de la Marne,Rue de l'Argonne,,48.79676,2.4031542
+Croisement547,Rue de la Petite Saussaie,Allée des Érables,,48.783035,2.3851854
+Croisement548,Rue de la Petite Saussaie,Allée du Cèdre,,48.783035,2.3851854
+Croisement549,Rue de la Petite Saussaie,Avenue de la Commune de Paris,,48.783035,2.3851854
+Croisement550,Rue de la Petite Saussaie,Avenue Lucien Français,,48.783035,2.3851854
+Croisement551,Rue de la Petite Saussaie,Avenue Youri Gagarine D5,,48.783035,2.3851854
+Croisement552,Rue de la Petite Saussaie,Voie Barye,,48.783035,2.3851854
+Croisement553,Rue de la Petite Saussaie,Voie des Monis,,48.783035,2.3851854
+Croisement554,Rue de la Petite Saussaie,Voie Murillo,,48.783035,2.3851854
+Croisement555,Rue de la Prévoyance,Rue Édouard Til,,48.7908007,2.3833265
+Croisement556,Rue de la Solidarité,Place de la Liberté,,48.8022629,2.3853443
+Croisement557,Rue de la Solidarité,Rue Arthur Rimbaud,,48.8022629,2.3853443
+Croisement558,Rue de la Solidarité,Rue du Professeur Calmette,,48.8022629,2.3853443
+Croisement559,Rue de la Solidarité,Rue Gagnée - Rue Amédée Huon,,48.8022629,2.3853443
+Croisement560,Rue de la Somme,Rue de l'Argonne,,48.7965548,2.4016109
+Croisement561,Rue de la Somme,Rue de Salonique,,48.7965548,2.4016109
+Croisement562,Rue de Meissen,Avenue Lucien Français,,48.7883873,2.3879754
+Croisement563,Rue de Meissen,Rue de Burnley,,48.7883873,2.3879754
+Croisement564,Rue de Meissen,Rue de Kladno,,48.7883873,2.3879754
+Croisement565,Rue de Salonique,Rue de la Marne,,48.7973348,2.4022381
+Croisement566,Rue de Salonique,Rue de la Somme,,48.7973348,2.4022381
+Croisement567,Rue de Seine,13,,48.7966193,2.4094585
+Croisement568,Rue de Seine,Avenue du Président Salvador Allende D148,,48.7966193,2.4094585
+Croisement569,Rue de Seine,Quai Jules Guesde D152,,48.7966193,2.4094585
+Croisement570,Rue de Seine,Rue Edith Cavell,,48.7966193,2.4094585
+Croisement571,Rue de Seine,Rue Marat,,48.7966193,2.4094585
+Croisement572,Rue des Ardoines,Rue Blaise Pascal,,48.7841468,2.4060549
+Croisement573,Rue des Ardoines,Rue Broussais,,48.7841468,2.4060549
+Croisement574,Rue des Ardoines,Rue Gabriel Péri,,48.7841468,2.4060549
+Croisement575,Rue des Ardoines,Rue Léon Geffroy,,48.7841468,2.4060549
+Croisement576,Rue des Ardoines,Rue Talma,,48.7841468,2.4060549
+Croisement577,Rue des Ardoines,Rue Victor Ruiz,,48.7841468,2.4060549
+Croisement578,Rue des Basses Blanches,Allée des Sources,,48.7933227,2.3830641
+Croisement579,Rue des Basses Blanches,Rue des Noriets,,48.7933227,2.3830641
+Croisement580,Rue des Blanches,Avenue du Moulin de Saquet D148,,48.7928708,2.379572
+Croisement581,Rue des Blanches,Impasse de la Tuleuse,,48.7928708,2.379572
+Croisement582,Rue des Blanches,Rue Lecocq,,48.7928708,2.379572
+Croisement583,Rue des Blanches,Voie Massenet,,48.7928708,2.379572
+Croisement584,Rue des Blanches,Voie Schumann,,48.7928708,2.379572
+Croisement585,Rue des Blanches,Voie Wagner,,48.7928708,2.379572
+Croisement586,Rue des Blancs Murs,Impasse Jean Jacob,,48.7976937,2.3879923
+Croisement587,Rue des Blancs Murs,Place de la Liberté,,48.7976937,2.3879923
+Croisement588,Rue des Blancs Murs,Rue de la Concorde,,48.7976937,2.3879923
+Croisement589,Rue des Blancs Murs,Voie Buffon,,48.7976937,2.3879923
+Croisement590,Rue des Blancs Murs,Voie Pinel,,48.7976937,2.3879923
+Croisement591,Rue des Carrières,Place de la Liberté,,48.7994943,2.3893045
+Croisement592,Rue des Carrières,Rue Lavoisier,,48.7994943,2.3893045
+Croisement593,Rue des Carrières,Rue Lucien Nadaire,,48.7994943,2.3893045
+Croisement594,Rue des Carrières,Rue Réaumur,,48.7994943,2.3893045
+Croisement595,Rue des Cléveaux,Rue des Noriets,,48.7958937,2.3772184
+Croisement596,Rue des Cléveaux,Rue Mozart,,48.7958937,2.3772184
+Croisement597,Rue des Contes de Fées,Place Jean de la Fontaine,,48.7724823,2.3733721
+Croisement598,Rue des Contes de Fées,Rue Antoine Mimerel,,48.7724823,2.3733721
+Croisement599,Rue des Flandres,Rue Édouard Til,,48.7913568,2.3845801
+Croisement600,Rue des Flandres,Voie Bellini,,48.7913568,2.3845801
+Croisement601,Rue des Flandres,Voie Bouchardon,,48.7913568,2.3845801
+Croisement602,Rue des Frères Poirier,Avenue Jean Jaurès D148,,48.7933647,2.4001183
+Croisement603,Rue des Frères Poirier,Rue Gabriel Péri,,48.7933647,2.4001183
+Croisement604,Rue des Fusillés,Pont des Fusillés,,48.7874832,2.4140119
+Croisement605,Rue des Fusillés,Rue Charles Heller,,48.7874832,2.4140119
+Croisement606,Rue des Granges,Rue de Choisy,,48.7862187,2.3980575
+Croisement607,Rue des Granges,Rue de la Ferme,,48.7862187,2.3980575
+Croisement608,Rue des Granges,Rue du 10 Juillet 1940,,48.7862187,2.3980575
+Croisement609,Rue des Jardins,Place Jean de la Fontaine,,48.7725505,2.371502
+Croisement610,Rue des Jardins,Rue de France,,48.7725505,2.371502
+Croisement611,Rue des Jardins,Rue du Moulin Vert,,48.7725505,2.371502
+Croisement612,Rue des Jardins,Rue Georges Urbain,,48.7725505,2.371502
+Croisement613,Rue des Jardins,Square Jean de la Fontaine,,48.7725505,2.371502
+Croisement614,Rue des Malassis,Boulevard de Stalingrad D5,,48.7996864,2.3774108
+Croisement615,Rue des Malassis,Rue Auber,,48.7996864,2.3774108
+Croisement616,Rue des Malassis,Rue Francis Poulenc,,48.7996864,2.3774108
+Croisement617,Rue des Malassis,Sentier Moncouteau,,48.7996864,2.3774108
+Croisement618,Rue des Marguerites,Avenue Guy Môquet,,48.7928475,2.3977754
+Croisement619,Rue des Marguerites,Place Jean Martin,,48.7928475,2.3977754
+Croisement620,Rue des Noriets,Rue Audran,,48.7947957,2.378874
+Croisement621,Rue des Noriets,Rue Mozart,,48.7947957,2.378874
+Croisement622,Rue des Noriets,Rue Planquette,,48.7947957,2.378874
+Croisement623,Rue des Noriets,Rue Puccini,,48.7947957,2.378874
+Croisement624,Rue des Nymphes,Rue Napée,,48.7996277,2.3835128
+Croisement625,Rue des Papelots,Rue Édouard Til,,48.7902168,2.3853245
+Croisement626,Rue des Pavillons,Rue des Noriets,,48.7947032,2.383564
+Croisement627,Rue des Prés,Rue Charles Floquet,,48.79893,2.3962387
+Croisement628,Rue des Prés,Rue Charles Tellier,,48.79893,2.3962387
+Croisement629,Rue des Prés,Rue de l'Yser,,48.79893,2.3962387
+Croisement630,Rue des Prés,Rue des Marais,,48.79893,2.3962387
+Croisement631,Rue des Prés,Rue du Maréchal Foch,,48.79893,2.3962387
+Croisement632,Rue des Prés,Rue Félix Faure,,48.79893,2.3962387
+Croisement633,Rue des Prés,Rue Henri Poincaré,,48.79893,2.3962387
+Croisement634,Rue des Prés,Rue Massias,,48.79893,2.3962387
+Croisement635,Rue des Prés,Rue Sainte-Geneviève,,48.79893,2.3962387
+Croisement636,Rue des Trois Frères Mimerel,Place Jean de la Fontaine,,48.7728769,2.373148
+Croisement637,Rue des Trois Frères Mimerel,Rue des Contes de Fées,,48.7728769,2.373148
+Croisement638,Rue Donizetti,Rue Bellevue,,48.8002324,2.3729355
+Croisement639,Rue Donizetti,Rue Boieldieu,,48.8002324,2.3729355
+Croisement640,Rue Donizetti,Rue Claude Debussy,,48.8002324,2.3729355
+Croisement641,Rue Donizetti,Rue Francis Poulenc,,48.8002324,2.3729355
+Croisement642,Rue Donizetti,Villa Donizetti,,48.8002324,2.3729355
+Croisement643,Rue du 10 Juillet 1940,Rue Ampère,,48.7858302,2.3971732
+Croisement644,Rue du 10 Juillet 1940,Rue Joseph Ravanel,,48.7858302,2.3971732
+Croisement645,Rue du 10 Juillet 1940,Rue Lionel Terray,,48.7858302,2.3971732
+Croisement646,Rue du 10 Juillet 1940,Rue Louis Lachenal,,48.7858302,2.3971732
+Croisement647,Rue du 18 Juin 1940,Avenue de l'Abbé Roger Derry D155,,48.7894668,2.3957802
+Croisement648,Rue du 18 Juin 1940,Avenue Paul Vaillant-Couturier D155,,48.7894668,2.3957802
+Croisement649,Rue du 18 Juin 1940,Place des Martyrs de la Déportation,,48.7894668,2.3957802
+Croisement650,Rue du 18 Juin 1940,Rue Arago,,48.7894668,2.3957802
+Croisement651,Rue du 18 Juin 1940,Rue de Joigny,,48.7894668,2.3957802
+Croisement652,Rue du Bel Air,Rue Anselme Rondenay,,48.7815625,2.4050469
+Croisement653,Rue du Bel Air,Rue de Choisy,,48.7815625,2.4050469
+Croisement654,Rue du Bel Air,Rue du Général Malleret-Joinville,,48.7815625,2.4050469
+Croisement655,Rue du Bel Air,Rue Léon Geffroy D274,,48.7815625,2.4050469
+Croisement656,Rue du Cervin,Avenue Rouget de Lisle D5,,48.7803736,2.3946597
+Croisement657,Rue du Cervin,Square du Pelvoux,,48.7803736,2.3946597
+Croisement658,Rue du Chaperon Rouge,Place Anne-Claude Godeau,,48.772249,2.3758815
+Croisement659,Rue du Chaperon Rouge,Rue Antoine Mimerel,,48.772249,2.3758815
+Croisement660,Rue du Chat Botté,Rue Antoine Mimerel,,48.771982,2.3765805
+Croisement661,Rue du Chat Botté,Rue Eugène Derrien,,48.771982,2.3765805
+Croisement662,Rue du Château,Avenue Ambroise Croizat,,48.7918627,2.3924351
+Croisement663,Rue du Château,Rue Germain Defresne,,48.7918627,2.3924351
+Croisement664,Rue du Château,Rue Montebello,,48.7918627,2.3924351
+Croisement665,Rue du Chevaleret,Rue Jules Ferry,,48.8028643,2.4005852
+Croisement666,Rue du Colonel Moll,Avenue Gambetta,,48.7967694,2.4042904
+Croisement667,Rue du Colonel Moll,Rue de l'Argonne,,48.7967694,2.4042904
+Croisement668,Rue du Fort,Impasse des Vauloyers,,48.7973637,2.3900983
+Croisement669,Rue du Fort,Rue Chaptal,,48.7973637,2.3900983
+Croisement670,Rue du Fort,Rue Cujas,,48.7973637,2.3900983
+Croisement671,Rue du Fort,Rue Cuvier,,48.7973637,2.3900983
+Croisement672,Rue du Fort,Rue des Carrières,,48.7973637,2.3900983
+Croisement673,Rue du Fort,Rue Germain Defresne,,48.7973637,2.3900983
+Croisement674,Rue du Fort,Villa Bellevue,,48.7973637,2.3900983
+Croisement675,Rue du Fort,Voie Broca,,48.7973637,2.3900983
+Croisement676,Rue du Général de Gaulle,Avenue Henri Barbusse D148,,48.7942223,2.3922471
+Croisement677,Rue du Général de Gaulle,Place de l'Église,,48.7942223,2.3922471
+Croisement678,Rue du Général de Gaulle,Rue Montebello,,48.7942223,2.3922471
+Croisement679,Rue du Génie,Allée Chabrier,,48.7960156,2.3726394
+Croisement680,Rue du Génie,Impasse des Sablons,,48.7960156,2.3726394
+Croisement681,Rue du Génie,Rue Camélinat,,48.7960156,2.3726394
+Croisement682,Rue du Génie,Rue des Malassis,,48.7960156,2.3726394
+Croisement683,Rue du Génie,Rue Lecocq,,48.7960156,2.3726394
+Croisement684,Rue du Génie,Rue Mozart,,48.7960156,2.3726394
+Croisement685,Rue du Génie,Rue Pergolèse,,48.7960156,2.3726394
+Croisement686,Rue du Génie,Rue Verdi,,48.7960156,2.3726394
+Croisement687,Rue du Génie,Sente de la Crétaine,,48.7960156,2.3726394
+Croisement688,Rue du Génie,Sente des Jolivettes,,48.7960156,2.3726394
+Croisement689,Rue du Génie,Sente du Héron,,48.7960156,2.3726394
+Croisement690,Rue du Génie,Voie Chopin,,48.7960156,2.3726394
+Croisement691,Rue du Génie,Voie Élie Gras,,48.7960156,2.3726394
+Croisement692,Rue du Génie,Voie Grétry,,48.7960156,2.3726394
+Croisement693,Rue du Génie,Voie Lili Boulanger,,48.7960156,2.3726394
+Croisement694,Rue du Génie,Voie Méhul,,48.7960156,2.3726394
+Croisement695,Rue du Génie,Voie Schumann,,48.7960156,2.3726394
+Croisement696,Rue du Mont-Blanc,Allée de l'Annapurna,,48.7811542,2.3932928
+Croisement697,Rue du Mont-Blanc,Square du Pelvoux,,48.7811542,2.3932928
+Croisement698,Rue du Moulin Vert,Allée du Moulin Vert,,48.7727438,2.3694565
+Croisement699,Rue du Moulin Vert,Route de Fontainebleau D7,,48.7727438,2.3694565
+Croisement700,Rue du Moulin Vert,Rue de France,,48.7727438,2.3694565
+Croisement701,Rue du Perreux,Avenue des Peupliers,,48.7925383,2.4021364
+Croisement702,Rue du Perreux,Rue Gabriel Péri,,48.7925383,2.4021364
+Croisement703,Rue du Petit Poucet,Rue Antoine Mimerel,,48.7729753,2.3748181
+Croisement704,Rue du Petit Poucet,Rue des Contes de Fées,,48.7729753,2.3748181
+Croisement705,Rue du Petit Poucet,Rue Gérard Philipe,,48.7729753,2.3748181
+Croisement706,Rue du Port à l'Anglais,Avenue Jean Jaurès,Avenue Anatole France D155,48.8047559,2.4063193
+Croisement707,Rue du Port à l'Anglais,Rue Marguerite Duras,,48.8047559,2.4063193
+Croisement708,Rue Duguesclin,Rue Edith Cavell,,48.8006601,2.4086479
+Croisement709,Rue Dupetitval,Rue du 18 Juin 1940,,48.7905361,2.3961048
+Croisement710,Rue Edith Cavell,Avenue du Président Salvador Allende D148,,48.7948703,2.4131235
+Croisement711,Rue Edith Cavell,Rue Berthie Albrecht,,48.7948703,2.4131235
+Croisement712,Rue Edith Cavell,Rue de Seine,,48.7948703,2.4131235
+Croisement713,Rue Edith Cavell,Rue Eugène Hénaff,,48.7948703,2.4131235
+Croisement714,Rue Edith Cavell,Rue Vercingétorix,,48.7948703,2.4131235
+Croisement715,Rue Édouard Til,Avenue Lucien Français,,48.7890063,2.3843856
+Croisement716,Rue Édouard Til,Chemin Saint-Martin,,48.7890063,2.3843856
+Croisement717,Rue Édouard Til,Impasse Audran,,48.7890063,2.3843856
+Croisement718,Rue Édouard Til,Rue des Papelots,,48.7890063,2.3843856
+Croisement719,Rue Édouard Til,Rue Édouard Tremblay,,48.7890063,2.3843856
+Croisement720,Rue Édouard Til,Rue Utrillo,,48.7908984,2.3841189
+Croisement721,Rue Édouard Til,Rue Vélasquez,,48.7908984,2.3841189
+Croisement722,Rue Édouard Til,Voie Bellini,,48.7908984,2.3841189
+Croisement723,Rue Édouard Til,Voie Falguière,,48.7908984,2.3841189
+Croisement724,Rue Édouard Tremblay,Allée des Vergers,,48.7795853,2.3678644
+Croisement725,Rue Édouard Tremblay,Avenue du Colonel Fabien,,48.7795853,2.3678644
+Croisement726,Rue Édouard Tremblay,Rue Carpeaux,,48.7795853,2.3678644
+Croisement727,Rue Édouard Tremblay,Rue Édouard Til,,48.7795853,2.3678644
+Croisement728,Rue Édouard Tremblay,Rue Julian Grimau,,48.7795853,2.3678644
+Croisement729,Rue Édouard Tremblay,Rue Meissonier,,48.7795853,2.3678644
+Croisement730,Rue Édouard Tremblay,Sentier des Tuileries,,48.7795853,2.3678644
+Croisement731,Rue Édouard Tremblay,Voie Claude Monet,,48.7795853,2.3678644
+Croisement732,Rue Édouard Tremblay,Voie Delacroix,,48.7795853,2.3678644
+Croisement733,Rue Édouard Tremblay,Voie Houdon,,48.7795853,2.3678644
+Croisement734,Rue Édouard Tremblay,Voie Ingres,,48.7795853,2.3678644
+Croisement735,Rue Édouard Vaillant,Impasse Édouard Vaillant,,48.8012154,2.4070291
+Croisement736,Rue Édouard Vaillant,Rue Alfred de Musset,,48.8012154,2.4070291
+Croisement737,Rue Édouard Vaillant,Rue d'Algésiras,,48.8012154,2.4070291
+Croisement738,Rue Édouard Vaillant,Rue Duguesclin,,48.8012154,2.4070291
+Croisement739,Rue Édouard Vaillant,Rue George Sand,,48.8012154,2.4070291
+Croisement740,Rue Édouard Vaillant,Rue Vercingétorix,,48.8012154,2.4070291
+Croisement741,Rue Édouard Vaillant,Rue Waldeck Rousseau,,48.8012154,2.4070291
+Croisement742,Rue Édouard Vaillant,Sente Marguerite Duras,,48.8012154,2.4070291
+Croisement743,Rue Elsa Triolet,Allée de l'Horizon,,48.7796398,2.4032009
+Croisement744,Rue Elsa Triolet,Rue Anselme Rondenay,,48.7796398,2.4032009
+Croisement745,Rue Elsa Triolet,Rue Georges Martin,,48.7796398,2.4032009
+Croisement746,Rue Émile Zola,Avenue Anatole France D155,,48.8009765,2.4010835
+Croisement747,Rue Émile Zola,Rue Jules Ferry,,48.8009765,2.4010835
+Croisement748,Rue Eugène Derrien,Place Anne-Claude Godeau,,48.7727907,2.3767556
+Croisement749,Rue Eugène Derrien,Rue Bruno Braun,,48.7727907,2.3767556
+Croisement750,Rue Eugène Derrien,Rue Camille Risch,,48.7727907,2.3767556
+Croisement751,Rue Eugène Derrien,Rue Cendrillon,,48.7727907,2.3767556
+Croisement752,Rue Eugène Derrien,Rue du Petit Poucet,,48.7727907,2.3767556
+Croisement753,Rue Eugène Derrien,Rue Gérard Philipe,,48.7727907,2.3767556
+Croisement754,Rue Eugène Derrien,Rue Paul Armangot,,48.7727907,2.3767556
+Croisement755,Rue Eugène Derrien,Voie Georges Carré,,48.7727907,2.3767556
+Croisement756,Rue Eugène Hénaff,Quai Jules Guesde D152,,48.7936354,2.412732
+Croisement757,Rue Eugène Hénaff,Rue Charles Heller,,48.7936354,2.412732
+Croisement758,Rue Eugène Varlin,Rue Marie Sorin Defresne,,48.7985363,2.3854312
+Croisement759,Rue Federico Garcia Lorca,Passage Louise Michel,,48.7988654,2.3849172
+Croisement760,Rue Federico Garcia Lorca,Rue Marie Sorin Defresne,,48.7988654,2.3849172
+Croisement761,Rue Félix Faure,Rue Albert Einstein,,48.8009835,2.3973352
+Croisement762,Rue Félix Faure,Rue Jules Ferry,,48.8009835,2.3973352
+Croisement763,Rue Fragonard,Voie des Monis,,48.777412,2.390095
+Croisement764,Rue Franklin,Avenue de l'Insurrection,,48.7993546,2.3997003
+Croisement765,Rue Franklin,Rue Gabriel Péri,,48.7993546,2.3997003
+Croisement766,Rue Frédéric Joliot Curie,Rue Georges Martin,,48.7811959,2.4008863
+Croisement767,Rue Frédéric Mistral,Rue Maurice Coquelin,,48.7718845,2.373784
+Croisement768,Rue Gabriel Péri,Avenue de la République D224,,48.7885055,2.4037713
+Croisement769,Rue Gabriel Péri,Avenue Jean Jaurès D148,,48.7885055,2.4037713
+Croisement770,Rue Gabriel Péri,Avenue Paul Vaillant-Couturier D155,,48.7885055,2.4037713
+Croisement771,Rue Gabriel Péri,Cité des Rosiers,,48.7885055,2.4037713
+Croisement772,Rue Gabriel Péri,Impasse des Artisans,,48.7885055,2.4037713
+Croisement773,Rue Gabriel Péri,Impasse Faidherbe,,48.7885055,2.4037713
+Croisement774,Rue Gabriel Péri,Rue Broussais,,48.7885055,2.4037713
+Croisement775,Rue Gabriel Péri,Rue Charles Infroit,,48.7885055,2.4037713
+Croisement776,Rue Gabriel Péri,Rue Charles Tellier,,48.7885055,2.4037713
+Croisement777,Rue Gabriel Péri,Rue de l'Argonne,,48.7885055,2.4037713
+Croisement778,Rue Gabriel Péri,Rue de l'Yser,,48.7885055,2.4037713
+Croisement779,Rue Gabriel Péri,Rue des Frères Poirier,,48.7885055,2.4037713
+Croisement780,Rue Gabriel Péri,Rue des Marais,,48.7885055,2.4037713
+Croisement781,Rue Gabriel Péri,Rue Neuve,,48.7885055,2.4037713
+Croisement782,Rue Gabriel Péri,Rue Sainte-Geneviève,,48.7885055,2.4037713
+Croisement783,Rue George Sand,Rue Berthie Albrecht,,48.7978576,2.4073162
+Croisement784,Rue Georges Martin,Rue Anselme Rondenay,,48.781281,2.4019749
+Croisement785,Rue Georges Martin,Rue Frédéric Joliot Curie,,48.781281,2.4019749
+Croisement786,Rue Georges Martin,Rue Grétillat,,48.781281,2.4019749
+Croisement787,Rue Gérard Philipe,Le Hameau du Coteau,,48.7746452,2.3772507
+Croisement788,Rue Gérard Philipe,Rue Gérard Philippe,,48.7746452,2.3772507
+Croisement789,Rue Gérard Philipe,Rue Julian Grimau,,48.7746452,2.3772507
+Croisement790,Rue Germain Defresne,Allée des Acacias,,48.7923588,2.3914702
+Croisement791,Rue Germain Defresne,Avenue Henri Barbusse D148,,48.7923588,2.3914702
+Croisement792,Rue Germain Defresne,Rue du Château,,48.7923588,2.3914702
+Croisement793,Rue Germain Pinson,Boulevard de Stalingrad D5,,48.7961493,2.383689
+Croisement794,Rue Germaine Tailleferre,Boulevard de Stalingrad D5,,48.8035179,2.3769342
+Croisement795,Rue Gounod,Avenue André Maginot,,48.7900509,2.3972655
+Croisement796,Rue Gounod,Rue du 18 Juin 1940,,48.7900509,2.3972655
+Croisement797,Rue Grétillat,Avenue Ernest Havet,,48.7813015,2.3976507
+Croisement798,Rue Grétillat,Rue Ampère,,48.7813015,2.3976507
+Croisement799,Rue Grétillat,Rue Constant Coquelin,,48.7813015,2.3976507
+Croisement800,Rue Grétillat,Rue de Bourgogne,,48.7813015,2.3976507
+Croisement801,Rue Grétillat,Rue Jean Roche,,48.7813015,2.3976507
+Croisement802,Rue Henri de Vilmorin,Avenue Henri Barbusse D148,,48.7938428,2.3883363
+Croisement803,Rue Henri de Vilmorin,Place de la Heunière,,48.7938428,2.3883363
+Croisement804,Rue Henri de Vilmorin,Rue Charles Infroit,,48.7938428,2.3883363
+Croisement805,Rue Henri de Vilmorin,Voie Buffon,,48.7938428,2.3883363
+Croisement806,Rue Henri Matisse,Avenue Rabelais,,48.7790028,2.3932795
+Croisement807,Rue Henri Matisse,Rue Watteau,,48.7790028,2.3932795
+Croisement808,Rue Henri Matisse,Voie Rodin,,48.7790028,2.3932795
+Croisement809,Rue Henri Poincaré,Rue Charles Infroit,,48.7959456,2.3960963
+Croisement810,Rue Henri Poincaré,Rue Massias,,48.7959456,2.3960963
+Croisement811,Rue Henri Poincaré,Rue Neuve,,48.7959456,2.3960963
+Croisement812,Rue Hippolyte Sarty,Rue Édouard Tremblay,,48.7834502,2.3734395
+Croisement813,Rue Jean Jaurès,Avenue Lemerle Vetter,,48.7724558,2.3925222
+Croisement814,Rue Jean Jaurès,Rue Émile Goeury,,48.7724558,2.3925222
+Croisement815,Rue Jean Jaurès,Rue Guy Môquet,,48.7724558,2.3925222
+Croisement816,Rue Jean Jaurès,Voie Rubens,,48.7724558,2.3925222
+Croisement817,Rue Jean Roche,Rue Anselme Rondenay,,48.7802134,2.3981037
+Croisement818,Rue Jean Roche,Rue Jean Perrin,,48.7802134,2.3981037
+Croisement819,Rue Jean-Baptiste Renoult D223,Avenue de la République D224,,0.0,0.0
+Croisement820,Rue Jean-Baptiste Renoult D223,Place Malik Oussekine,,0.0,0.0
+Croisement821,Rue Jean-Pierre Timbaud,Rue Gabriel Péri,,48.7871349,2.4056406
+Croisement822,Rue Joseph Ravanel,Rue Lionel Terray,,48.7852403,2.3974354
+Croisement823,Rue Joseph Ravanel,Rue Louis Lachenal,,48.7852403,2.3974354
+Croisement824,Rue Jules Ferry,Avenue Anatole France D155,,48.8016717,2.4009384
+Croisement825,Rue Jules Ferry,Avenue des Platanes,,48.8016717,2.4009384
+Croisement826,Rue Jules Ferry,Place Pierre Semard,,48.8016717,2.4009384
+Croisement827,Rue Jules Ferry,Rue Albert Einstein,,48.8016717,2.4009384
+Croisement828,Rue Jules Lagaisse,Allée des Champs Fleuris,,48.7972375,2.3804137
+Croisement829,Rue Jules Lagaisse,Allée des Sycomores,,48.7972375,2.3804137
+Croisement830,Rue Jules Lagaisse,Rue des Malassis,,48.7972375,2.3804137
+Croisement831,Rue Jules Lagaisse,Rue des Pavillons,,48.7972375,2.3804137
+Croisement832,Rue Jules Lagaisse,Rue Lalo,,48.7972375,2.3804137
+Croisement833,Rue Jules Lagaisse,Rue Ludwig van Beethoven,,48.7972375,2.3804137
+Croisement834,Rue Jules Lagaisse,Rue Pergolèse,,48.7972375,2.3804137
+Croisement835,Rue Jules Lagaisse,Rue Planquette,,48.7972375,2.3804137
+Croisement836,Rue Jules Lagaisse,Ruelle du Fossé Vert,,48.7972375,2.3804137
+Croisement837,Rue Jules Lagaisse,Sentier du Champ Canné,,48.7972375,2.3804137
+Croisement838,Rue Julian Grimau,Allée de la Croix du Mont,,48.7823691,2.3718637
+Croisement839,Rue Julian Grimau,Rue Antoine de Saint-Exupéry,,48.7823691,2.3718637
+Croisement840,Rue Julian Grimau,Rue Édouard Tremblay,,48.7823691,2.3718637
+Croisement841,Rue Julian Grimau,Rue Joliot Curie,,48.7823691,2.3718637
+Croisement842,Rue Julian Grimau,Voie Georges Carré,,48.7823691,2.3718637
+Croisement843,Rue Lacome,Rue des Noriets,,48.7952602,2.3817135
+Croisement844,Rue Lacome,Rue Planquette,,48.7952602,2.3817135
+Croisement845,Rue Lakanal,Avenue du Moulin de Saquet D148,,48.7932901,2.3838403
+Croisement846,Rue Lakanal,Rue des Basses Blanches,,48.7932901,2.3838403
+Croisement847,Rue Lakanal,Rue des Noriets,,48.7932901,2.3838403
+Croisement848,Rue Lakanal,Rue des Pavillons,,48.7932901,2.3838403
+Croisement849,Rue Lalo,Rue Audran,,48.7960633,2.3808546
+Croisement850,Rue Lalo,Rue Lacome,,48.7960633,2.3808546
+Croisement851,Rue Lamartine,Rue Molière,,48.8003178,2.3764874
+Croisement852,Rue Langlois,Avenue Lucien Français,,48.788646,2.3865856
+Croisement853,Rue Langlois,Rue Édouard Tremblay,,48.788646,2.3865856
+Croisement854,Rue Larrey,Rue des Blancs Murs,,48.7977101,2.3873959
+Croisement855,Rue Lavoisier,Rue André Malraux,,48.7986,2.3913758
+Croisement856,Rue Lavoisier,Rue Lucien Nadaire,,48.7986,2.3913758
+Croisement857,Rue Lebrun,Allée Auguste Renoir,,48.7833483,2.3828254
+Croisement858,Rue Lebrun,Avenue du Colonel Fabien,,48.7833483,2.3828254
+Croisement859,Rue Lebrun,Rue Lesueur,,48.7833483,2.3828254
+Croisement860,Rue Lebrun,Rue Meissonier,,48.7833483,2.3828254
+Croisement861,Rue Lebrun,Rue Verte,,48.7833483,2.3828254
+Croisement862,Rue Lebrun,Voie Houdon,,48.7833483,2.3828254
+Croisement863,Rue Lecocq,Rue Monsigny,,48.7911085,2.37849
+Croisement864,Rue Léon Geffroy D274,Avenue de Lugo D152,,48.7823127,2.407348
+Croisement865,Rue Léon Geffroy D274,Avenue du Groupe Manouchian D274,,48.7823127,2.407348
+Croisement866,Rue Léon Geffroy D274,Avenue Louis Blériot,,48.7823127,2.407348
+Croisement867,Rue Léon Geffroy D274,Cours Farman,,48.7823127,2.407348
+Croisement868,Rue Léon Geffroy D274,Rue Jean-Pierre Timbaud,,48.7823127,2.407348
+Croisement869,Rue Léon Geffroy D124,Rue Léon Geffroy D274,,48.7823127,2.407348
+Croisement870,Rue Léon Geffroy D274,Villa Broussais,,48.7823127,2.407348
+Croisement871,Rue Léon Geffroy D274,A86,,48.7823127,2.407348
+Croisement872,Rue Léon Mauvais,Impasse des Ateliers,,48.7836641,2.416553
+Croisement873,Rue Lesueur,Voie Greuze,,48.78519,2.3824695
+Croisement874,Rue Lesueur,Voie Lancret,,48.78519,2.3824695
+Croisement875,Rue Lionel Terray,Rue Louis Lachenal,,48.7850698,2.3968664
+Croisement876,Rue Lionel Terray,Square Lionel Terray,,48.7850698,2.3968664
+Croisement877,Rue Louis Marchandise,Avenue Rouget de Lisle D5,,48.7847665,2.394129
+Croisement878,Rue Louis Marchandise,Avenue Youri Gagarine D5,,48.7847665,2.394129
+Croisement879,Rue Louis Marchandise,Rue Louis Lachenal,,48.7847665,2.394129
+Croisement880,Rue Louise-Aglaé Cretté,Avenue Henri Barbusse D148,,48.7978957,2.394043
+Croisement881,Rue Louise-Aglaé Cretté,Rue Charles Infroit,,48.7978957,2.394043
+Croisement882,Rue Louise-Aglaé Cretté,Rue Corneille,,48.7978957,2.394043
+Croisement883,Rue Louise-Aglaé Cretté,Rue des Carrières,,48.7978957,2.394043
+Croisement884,Rue Louise-Aglaé Cretté,Rue Massias,,48.7978957,2.394043
+Croisement885,Rue Louise-Aglaé Cretté,Rue Racine,,48.7978957,2.394043
+Croisement886,Rue Marat,Rue Berthie Albrecht,,48.7975539,2.4088435
+Croisement887,Rue Marat,Rue George Sand,,48.7975539,2.4088435
+Croisement888,Rue Marcel Laurent,Rue de la Marne,,48.7965702,2.4024165
+Croisement889,Rue Marcel Laurent,Rue de la Somme,,48.7965702,2.4024165
+Croisement890,Rue Marcelin Berthelot,Rue Condorcet,,48.7904906,2.403565
+Croisement891,Rue Marcelin Berthelot,Rue Gabriel Péri,,48.7904906,2.403565
+Croisement892,Rue Marguerite Duras,Rue Rosa Parks,,48.8038054,2.4070718
+Croisement893,Rue Marguerite Duras,Rue Saint-Simon,,48.8038054,2.4070718
+Croisement894,Rue Marguerite Duras,Sente Marguerite Duras,,48.8038054,2.4070718
+Croisement895,Rue Marie Sorin Defresne,Rue Charles Infroit,,48.7982063,2.3847834
+Croisement896,Rue Marie Sorin Defresne,Rue de la Concorde,,48.7982063,2.3847834
+Croisement897,Rue Marie Sorin Defresne,Rue Germain Pinson,,48.7982063,2.3847834
+Croisement898,Rue Mario Capra,Allée Arsène Gravier,,48.7838813,2.3916644
+Croisement899,Rue Mario Capra,Avenue de la Commune de Paris,,48.7838813,2.3916644
+Croisement900,Rue Mario Capra,Avenue Rabelais,,48.7838813,2.3916644
+Croisement901,Rue Mario Capra,Avenue Rouget de Lisle D5,,48.7838813,2.3916644
+Croisement902,Rue Massias,Rue Corneille,,48.7948366,2.3959669
+Croisement903,Rue Massias,Rue Racine,,48.7948366,2.3959669
+Croisement904,Rue Maurice Coquelin,Rue Antoine Mimerel,,48.7722116,2.3738862
+Croisement905,Rue Meissonier,Allée Fernand Léger,,48.7836713,2.3823642
+Croisement906,Rue Meissonier,Sentier des Églantiers,,48.7836713,2.3823642
+Croisement907,Rue Meissonier,Voie Delacroix,,48.7836713,2.3823642
+Croisement908,Rue Meissonier,Voie des Monis,,48.7836713,2.3823642
+Croisement909,Rue Meissonier,Voie Greuze,,48.7836713,2.3823642
+Croisement910,Rue Meissonier,Voie Lancret,,48.7836713,2.3823642
+Croisement911,Rue Molière,Boulevard de Stalingrad D5,,48.8007769,2.3782685
+Croisement912,Rue Molière,Rue Auber,,48.8007769,2.3782685
+Croisement913,Rue Monsigny,Avenue du Moulin de Saquet D148,,48.7907443,2.3802341
+Croisement914,Rue Monsigny,Rue Lecocq,,48.7907443,2.3802341
+Croisement915,Rue Monsigny,Voie Wagner,,48.7907443,2.3802341
+Croisement916,Rue Montebello,Avenue Henri Barbusse D148,,48.7925492,2.393233
+Croisement917,Rue Montebello,Place de l'Église,,48.7925492,2.393233
+Croisement918,Rue Montebello,Rue du Château,,48.7925492,2.393233
+Croisement919,Rue Montebello,Rue du Général de Gaulle,,48.7925492,2.393233
+Croisement920,Rue Mozart,Allée du Clos Mozart,,48.7956279,2.3755757
+Croisement921,Rue Mozart,Impasse de la Tuleuse,,48.7956279,2.3755757
+Croisement922,Rue Mozart,Rue du Génie,,48.7956279,2.3755757
+Croisement923,Rue Mozart,Rue Offenbach,,48.7956279,2.3755757
+Croisement924,Rue Mozart,Voie Charcot,,48.7956279,2.3755757
+Croisement925,Rue Napée,Rue de la Concorde,,48.7993481,2.3830402
+Croisement926,Rue Napée,Rue Marie Sorin Defresne,,48.7993481,2.3830402
+Croisement927,Rue Offenbach,Rue des Malassis,,48.796873,2.3746969
+Croisement928,Rue Offenbach,Rue Pergolèse,,48.796873,2.3746969
+Croisement929,Rue Offenbach,Rue Verdi,,48.796873,2.3746969
+Croisement930,Rue Olympe de Gouges,Esplanade Pour le Respect de l'Égalité Sohane Benziane,,48.7791625,2.4022974
+Croisement931,Rue Olympe de Gouges,Rue Balzac,,48.7791625,2.4022974
+Croisement932,Rue Olympe de Gouges,Rue Colette,,48.7791625,2.4022974
+Croisement933,Rue Olympe de Gouges,Rue du Général Malleret-Joinville,,48.7791625,2.4022974
+Croisement934,Rue Olympe de Gouges,Rue Elsa Triolet,,48.7791625,2.4022974
+Croisement935,Rue Olympe de Gouges,Rue Simone de Beauvoir,,48.7791625,2.4022974
+Croisement936,Rue Parmentier,Avenue Anatole France D155,,48.8014717,2.4040089
+Croisement937,Rue Parmentier,Place Pierre Semard,,48.8014717,2.4040089
+Croisement938,Rue Parmentier,Rue Pierre Semard D155,,48.8014717,2.4040089
+Croisement939,Rue Pasteur,Avenue Anatole France D155,,48.8012267,2.4056581
+Croisement940,Rue Pasteur,Avenue Eva Salmon,,48.8012267,2.4056581
+Croisement941,Rue Pasteur,Avenue Jean Jaurès,Avenue Anatole France D155,48.8012267,2.4056581
+Croisement942,Rue Pasteur,Rue Alfred de Musset,,48.8012267,2.4056581
+Croisement943,Rue Pasteur,Rue Charles Fourier,,48.8012267,2.4056581
+Croisement944,Rue Pasteur,Rue Parmentier,,48.8012267,2.4056581
+Croisement945,Rue Pasteur,Rue Pierre Semard,,48.8012267,2.4056581
+Croisement946,Rue Pasteur,Rue Rosa Parks,,48.8012267,2.4056581
+Croisement947,Rue Pasteur,Rue Saint-Simon,,48.8012267,2.4056581
+Croisement948,Rue Pasteur,Rue Waldeck Rousseau,,48.8012267,2.4056581
+Croisement949,Rue Pasteur Prolongée,Rue Berthie Albrecht,,48.7959476,2.405395
+Croisement950,Rue Paul Armangot,Allée des Mésanges,,48.7761437,2.3754527
+Croisement951,Rue Paul Armangot,Impasse Paul Armangot,,48.7761437,2.3754527
+Croisement952,Rue Paul Armangot,Le Hameau du Coteau,,48.7761437,2.3754527
+Croisement953,Rue Paul Armangot,Rue Camille Risch,,48.7761437,2.3754527
+Croisement954,Rue Paul Armangot,Rue du Bocage,,48.7761437,2.3754527
+Croisement955,Rue Paul Armangot,Rue Julian Grimau,,48.7761437,2.3754527
+Croisement956,Rue Paul Armangot,Sente des Lilas,,48.7761437,2.3754527
+Croisement957,Rue Paul Armangot,Voie du Moulin Vert,,48.7761437,2.3754527
+Croisement958,Rue Paul Bert,Avenue André Maginot,,48.7867022,2.4036805
+Croisement959,Rue Paul Bert,Rue de Choisy,,48.7867022,2.4036805
+Croisement960,Rue Paul Bert,Rue Gabriel Péri,,48.7867022,2.4036805
+Croisement961,Rue Paul Bert,Rue Jean-Pierre Timbaud,,48.7867022,2.4036805
+Croisement962,Rue Paul Bert,Rue Talma,,48.7867022,2.4036805
+Croisement963,Rue Paul Cézanne,Rue Vélasquez,,48.7892491,2.3832111
+Croisement964,Rue Paul Rannou,Rue Gabriel Péri,,48.7895297,2.4037127
+Croisement965,Rue Pauline Lacroix,Impasse Pauline Lacroix,,48.7736771,2.3734443
+Croisement966,Rue Pauline Lacroix,Rue Bruno Braun,,48.7736771,2.3734443
+Croisement967,Rue Pauline Lacroix,Rue de France,,48.7736771,2.3734443
+Croisement968,Rue Pergolèse,Impasse Guy de Maupassant,,48.7977135,2.3783147
+Croisement969,Rue Pergolèse,Rue des Cléveaux,,48.7977135,2.3783147
+Croisement970,Rue Pergolèse,Rue Rossini,,48.7977135,2.3783147
+Croisement971,Rue Pergolèse,Voie Charcot,,48.7977135,2.3783147
+Croisement972,Rue Pergolèse,Voie Rameau,,48.7977135,2.3783147
+Croisement973,Rue Pergolèse,Voie Victor Massé,,48.7977135,2.3783147
+Croisement974,Rue Philippe Landrieux,Rue Paul Armangot,,48.7809486,2.3810809
+Croisement975,Rue Pierre et Marie Curie,Allée Arsène Gravier,,48.7817185,2.3925913
+Croisement976,Rue Pierre et Marie Curie,Allée de l'Annapurna,,48.7817185,2.3925913
+Croisement977,Rue Pierre et Marie Curie,Allée de la Vanoise,,48.7817185,2.3925913
+Croisement978,Rue Pierre et Marie Curie,Rue du Mont-Blanc,,48.7817185,2.3925913
+Croisement979,Rue Pierre Semard D155,Avenue Anatole France D155,,48.8000782,2.4042326
+Croisement980,Rue Pierre Semard D155,Place Pierre Semard,,48.8000782,2.4042326
+Croisement981,Rue Pierre Semard D155,Rue d'Ivry,,48.8000782,2.4042326
+Croisement982,Rue Planquette,Rue Audran,,48.7949411,2.3810338
+Croisement983,Rue Planquette,Rue Mozart,,48.7949411,2.3810338
+Croisement984,Rue Puccini,Allée de la Bohême,,48.7928154,2.3818707
+Croisement985,Rue Puccini,Avenue du Moulin de Saquet D148,,48.7928154,2.3818707
+Croisement986,Rue Puccini,Rue des Noriets,,48.7928154,2.3818707
+Croisement987,Rue Puccini,Voie Massenet,,48.7928154,2.3818707
+Croisement988,Rue Raphaël,Rue Félix Pithon,,48.7757771,2.3953292
+Croisement989,Rue Raphaël,Voie Nattier,,48.7757771,2.3953292
+Croisement990,Rue Raymond Jeannot,Rue Arago,,48.7889,2.3986563
+Croisement991,Rue Raymond Jeannot,Rue Camille Groult,,48.7889,2.3986563
+Croisement992,Rue Réaumur,Impasse Réaumur,,48.7970856,2.3918155
+Croisement993,Rue René Descartes,Rue du Général Malleret-Joinville,,48.7779233,2.4069245
+Croisement994,Rue René Descartes,Rue Léon Geffroy D274,,48.7779233,2.4069245
+Croisement995,Rue Robert Doisneau,Rue Gérard Philipe,,48.7744632,2.3774724
+Croisement996,Rue Roger Contesenne,Avenue des Peupliers,,48.7914569,2.4002151
+Croisement997,Rue Roger Contesenne,Rue Gabriel Péri,,48.7914569,2.4002151
+Croisement998,Rue Roger Contesenne,Rue Rachel,,48.7914569,2.4002151
+Croisement999,Rue Rosa Parks,Rue Marguerite Duras,,48.8043686,2.4077739
+Croisement1000,Rue Rossini,Allée Maurice Ravel,,48.7979916,2.3762149
+Croisement1001,Rue Rossini,Passage Béla Bartòk,,48.7979916,2.3762149
+Croisement1002,Rue Rossini,Rue des Malassis,,48.7979916,2.3762149
+Croisement1003,Rue Saint-Germain,Avenue Ambroise Croizat,,48.7903341,2.3929913
+Croisement1004,Rue Saint-Germain,Avenue de l'Abbé Roger Derry,,48.7903341,2.3929913
+Croisement1005,Rue Saint-Germain,Passage Irène et Frédéric Joliot-Curie,,48.7903341,2.3929913
+Croisement1006,Rue Saint-Simon,Rue Marguerite Duras,,48.8038983,2.4080151
+Croisement1007,Rue Simone de Beauvoir,Allée Marguerite Yourcenar,,48.7785616,2.4023237
+Croisement1008,Rue Simone de Beauvoir,Sentier Flora Tristan,,48.7785616,2.4023237
+Croisement1009,Rue Talma,Rue André Visage,,48.7921368,2.3998312
+Croisement1010,Rue Talma,Rue Broussais,,48.7921368,2.3998312
+Croisement1011,Rue Talma,Rue d'Alègre,,48.7921368,2.3998312
+Croisement1012,Rue Talma,Rue de la Ferme,,48.7921368,2.3998312
+Croisement1013,Rue Talma,Rue des Ardoines,,48.7921368,2.3998312
+Croisement1014,Rue Talma,Rue des Frères Poirier,,48.7921368,2.3998312
+Croisement1015,Rue Talma,Rue des Marguerites,,48.7921368,2.3998312
+Croisement1016,Rue Talma,Rue Roger Contesenne,,48.7921368,2.3998312
+Croisement1017,Rue Tortue,Rue des Fusillés,,48.787497,2.412777
+Croisement1018,Rue Tortue,Rue Léon Mauvais,,48.7858396,2.4133584
+Croisement1019,Rue Utrillo,Avenue du Moulin de Saquet D148,,48.789963,2.382559
+Croisement1020,Rue Utrillo,Impasse Utrillo,,48.789963,2.382559
+Croisement1021,Rue Utrillo,Rue des Papelots,,48.789963,2.382559
+Croisement1022,Rue Utrillo,Rue Édouard Til,,48.789963,2.382559
+Croisement1023,Rue Utrillo,Rue Paul Cézanne,,48.789963,2.382559
+Croisement1024,Rue Utrillo,Voie Bellini,,48.789963,2.382559
+Croisement1025,Rue Vercingétorix,Impasse Édouard Vaillant,,48.8016685,2.4085208
+Croisement1026,Rue Vercingétorix,Rue Edith Cavell,,48.8016685,2.4085208
+Croisement1027,Rue Verdi,Impasse Verdi,,48.7974556,2.3754
+Croisement1028,Rue Verdi,Rue Rossini,,48.7974556,2.3754
+Croisement1029,Rue Verdi,Sentier Jules Guesde,,48.7974556,2.3754
+Croisement1030,Rue Verdi,Voie André Messager,,48.7974556,2.3754
+Croisement1031,Rue Verdi,Voie Charcot,,48.7974556,2.3754
+Croisement1032,Rue Verdi,Voie Jacques Thibaud,,48.7974556,2.3754
+Croisement1033,Rue Verdi,Voie Victor Massé,,48.7974556,2.3754
+Croisement1034,Rue Verte,Allée du Clos Saint-Rémy,,48.780676,2.3755871
+Croisement1035,Rue Verte,Allée du Vert Cottage,,48.780676,2.3755871
+Croisement1036,Rue Verte,Avenue du Colonel Fabien,,48.780676,2.3755871
+Croisement1037,Rue Verte,Rue Julian Grimau,,48.780676,2.3755871
+Croisement1038,Rue Verte,Sente des Lilas,,48.780676,2.3755871
+Croisement1039,Rue Victor Ruiz,Rue de Choisy,,48.7831839,2.4044259
+Croisement1040,Rue Victor Ruiz,Rue Grétillat,,48.7831839,2.4044259
+Croisement1041,Rue Voltaire,Rue Constant Coquelin,,48.7781209,2.4028684
+Croisement1042,Rue Voltaire,Rue du Général Malleret-Joinville,,48.7781209,2.4028684
+Croisement1043,Rue Voltaire,Rue Elsa Triolet,,48.7781209,2.4028684
+Croisement1044,Rue Voltaire,Rue Simone de Beauvoir,,48.7781209,2.4028684
+Croisement1045,Rue Waldeck Rousseau,Rue Edith Cavell,,48.8011358,2.4085909
+Croisement1046,Rue Waldeck Rousseau,Rue Nobel,,48.8011358,2.4085909
+Croisement1047,Rue Watteau,Avenue Lemerle Vetter,,48.7766701,2.3931827
+Croisement1048,Rue Watteau,Avenue Rouget de Lisle D5,,48.7766701,2.3931827
+Croisement1049,Rue Watteau,Rue Fragonard,,48.7766701,2.3931827
+Croisement1050,Rue Watteau,Rue Raphaël,,48.7766701,2.3931827
+Croisement1051,Rue Watteau,Voie Daumier,,48.7766701,2.3931827
+Croisement1052,Rue Watteau,Voie des Blondeaux,,48.7766701,2.3931827
+Croisement1053,Rue Watteau,Voie Rembrandt,,48.7766701,2.3931827
+Croisement1054,Rue Watteau,Voie Rubens,,48.7766701,2.3931827
+Croisement1055,Ruelle du Fossé Vert,Rue Germain Pinson,,48.7960045,2.3829336
+Croisement1056,Sente des Lilas,Rue Paul Armangot,,48.780214,2.3787232
+Croisement1057,Sente des Lilas,Rue Verte,,48.780214,2.3787232
+Croisement1058,Sente du Verger,Sente des Jolivettes,,48.7935504,2.3735997
+Croisement1059,Sente Flora Tristan,Esplanade Pour le Respect de l'Égalité Sohane Benziane,,48.7784875,2.4015846
+Croisement1060,Sentier des Églantiers,Voie Paul Gauguin,,48.7860093,2.3783862
+Croisement1061,Sentier Flora Tristan,Sente Flora Tristan,,48.7786323,2.4020472
+Croisement1062,Sentier Tissebarbe,Rue Germain Pinson,,48.7972897,2.3852619
+Croisement1063,Sentier Tissebarbe,Rue Marie Sorin Defresne,,48.7972897,2.3852619
+Croisement1064,Square Jean de la Fontaine,Rue Georges Urbain,,48.7722225,2.372241
+Croisement1065,Square Lionel Terray,Rue Lionel Terray,,48.7845278,2.3964766
+Croisement1066,Villa Bellevue,Rue André Malraux,,48.797973,2.3906771
+Croisement1067,Villa Bellevue,Rue Lavoisier,,48.797973,2.3906771
+Croisement1068,Villa Bellevue,Rue Réaumur,,48.797973,2.3906771
+Croisement1069,Villa Broussais,Rue Gabriel Péri,,48.7850294,2.4069831
+Croisement1070,Villa Broussais,Rue Léon Geffroy D274,,48.7850294,2.4069831
+Croisement1071,Voie André Messager,Rue des Malassis,,48.7977817,2.3746576
+Croisement1072,Voie Arthur Honegger,Avenue du Moulin de Saquet D148,,48.7896646,2.3781247
+Croisement1073,Voie Arthur Honegger,Rue Camélinat,,48.7896646,2.3781247
+Croisement1074,Voie Barye,Voie des Monis,,48.7799982,2.3862592
+Croisement1075,Voie Barye,Voie Poussin,,48.7799982,2.3862592
+Croisement1076,Voie Broca,Rue André Malraux,,48.7970684,2.3907188
+Croisement1077,Voie Broca,Rue Réaumur,,48.7970684,2.3907188
+Croisement1078,Voie Buffon,Square de l'Horloge,,48.7938382,2.3889093
+Croisement1079,Voie Chopin,Rue Camélinat,,48.7901972,2.3751988
+Croisement1080,Voie Chopin,Rue des Vaux de Rome,,48.7901972,2.3751988
+Croisement1081,Voie Chopin,Rue du Moulin de Saquet,,48.7901972,2.3751988
+Croisement1082,Voie Claude Monet,Voie Coypel,,48.7877133,2.3805181
+Croisement1083,Voie Coypel,Rue Carpeaux,,48.7874793,2.3814825
+Croisement1084,Voie Coypel,Voie Claude Monet,,48.7874793,2.3814825
+Croisement1085,Voie Coysevox,Avenue du Moulin de Saquet D148,,48.7884164,2.3790953
+Croisement1086,Voie Coysevox,Rue Corot,,48.7884164,2.3790953
+Croisement1087,Voie Coysevox,Voie Arthur Honegger,,48.7884164,2.3790953
+Croisement1088,Voie Dalou,Avenue du Colonel Fabien,,48.7853067,2.3741435
+Croisement1089,Voie Dalou,Rue Antoine Bourdelle,,48.7853067,2.3741435
+Croisement1090,Voie Dalou,Rue Dalou,,48.7853067,2.3741435
+Croisement1091,Voie Dalou,Rue Hippolyte Sarty,,48.7853067,2.3741435
+Croisement1092,Voie Dalou,Rue Jean Lurçat,,48.7853067,2.3741435
+Croisement1093,Voie Dalou,Rue Julian Grimau,,48.7853067,2.3741435
+Croisement1094,Voie Daumier,Rue Pierre Léon Jacques,,48.7756843,2.3947348
+Croisement1095,Voie Daumier,Voie Nattier,,48.7756843,2.3947348
+Croisement1096,Voie Delacroix,Avenue du Moulin de Saquet D148,,48.7881437,2.377649
+Croisement1097,Voie Delacroix,Passage du Colonel Fabien,,48.7881437,2.377649
+Croisement1098,Voie Delacroix,Rue Corot,,48.7881437,2.377649
+Croisement1099,Voie Delacroix,Rue Dalou,,48.7881437,2.377649
+Croisement1100,Voie Délibes,Avenue du Moulin de Saquet D148,,48.789288,2.3764068
+Croisement1101,Voie Délibes,Rue Camélinat,,48.789288,2.3764068
+Croisement1102,Voie des Blondeaux,Voie Rodin,,48.7777255,2.3930036
+Croisement1103,Voie des Monis,Avenue du Colonel Fabien,,48.7812654,2.3835199
+Croisement1104,Voie des Monis,Avenue Lemerle Vetter,,48.7812654,2.3835199
+Croisement1105,Voie des Monis,Rue Meissonier,,48.7812654,2.3835199
+Croisement1106,Voie des Monis,Rue Paul Armangot,,48.7812654,2.3835199
+Croisement1107,Voie des Monis,Voie Louis Chavignier,,48.7812654,2.3835199
+Croisement1108,Voie des Monis,Voie Murillo,,48.7812654,2.3835199
+Croisement1109,Voie Falguière,Chemin Saint-Martin,,48.7871791,2.3854622
+Croisement1110,Voie Georges Carré,Avenue Lemerle Vetter,,48.7760747,2.3837695
+Croisement1111,Voie Georges Carré,Rue Julian Grimau,,48.7760747,2.3837695
+Croisement1112,Voie Georges Carré,Rue Robert Doisneau,,48.7760747,2.3837695
+Croisement1113,Voie Georges Carré,Voie Barye,,48.7760747,2.3837695
+Croisement1114,Voie Gluck,Rue Francis Poulenc,,48.7977169,2.3720151
+Croisement1115,Voie Gluck,Sentier Moncouteau,,48.7977169,2.3720151
+Croisement1116,Voie Gluck,Voie Alphonse Daudet,,48.7977169,2.3720151
+Croisement1117,Voie Grétry,Sente du Verger,,48.7939056,2.3730779
+Croisement1118,Voie Greuze,Chemin Saint-Martin,,48.7847623,2.3799813
+Croisement1119,Voie Greuze,Voie Paul Gauguin,,48.7847623,2.3799813
+Croisement1120,Voie Houdon,Voie Greuze,,48.7852107,2.3837669
+Croisement1121,Voie Houdon,Voie Ingres,,48.7852107,2.3837669
+Croisement1122,Voie Houdon,Voie Isabey,,48.7852107,2.3837669
+Croisement1123,Voie Houdon,Voie Lancret,,48.7852107,2.3837669
+Croisement1124,Voie Houdon,Voie Van Loo,,48.7852107,2.3837669
+Croisement1125,Voie Isabey,Chemin Saint-Martin,,48.7860949,2.3815376
+Croisement1126,Voie Isabey,Rue Lesueur,,48.7860949,2.3815376
+Croisement1127,Voie Isabey,Rue Meissonier,,48.7860949,2.3815376
+Croisement1128,Voie Isabey,Voie Houdon,,48.7860949,2.3815376
+Croisement1129,Voie Jacques Thibaud,Rue Verdi,,48.7963917,2.3734666
+Croisement1130,Voie Lancret,Sentier des Églantiers,,48.786419,2.3805111
+Croisement1131,Voie Lancret,Voie Ingres,,48.786419,2.3805111
+Croisement1132,Voie Lili Boulanger,Sente du Héron,,48.7924812,2.3743868
+Croisement1133,Voie Michel-Ange,Rue de la Petite Saussaie,,48.7842223,2.3875723
+Croisement1134,Voie Murillo,Rue de la Petite Saussaie,,48.7832384,2.3865131
+Croisement1135,Voie Murillo,Voie des Monis,,48.7832384,2.3865131
+Croisement1136,Voie Paul Gauguin,Sentier des Églantiers,,48.7854758,2.3794236
+Croisement1137,Voie Poussin,Rue Fragonard,,48.7801838,2.3875142
+Croisement1138,Voie Poussin,Voie Raffet,,48.7801838,2.3875142
+Croisement1139,Voie Raffet,Voie des Monis,,48.7815033,2.3875404
+Croisement1140,Voie Raffet,Voie Poussin,,48.7815033,2.3875404
+Croisement1141,Voie Rameau,Rue Pergolèse,,48.7970637,2.3778997
+Croisement1142,Voie Rembrandt,Voie Rubens,,48.7751119,2.3931415
+Croisement1143,Voie Rodin,Avenue Rouget de Lisle D5,,48.7801169,2.3941528
+Croisement1144,Voie Rodin,Rue du Cervin,,48.7801169,2.3941528
+Croisement1145,Voie Rodin,Square du Pelvoux,,48.7801169,2.3941528
+Croisement1146,Voie Rodin,Voie des Blondeaux,,48.7801169,2.3941528
+Croisement1147,Voie Rodin,Voie Rubens,,48.7801169,2.3941528
+Croisement1148,Voie Schumann,Rue des Noriets,,48.7924013,2.3759056
+Croisement1149,Voie Schumann,Rue du Lion d'Or,,48.7924013,2.3759056
+Croisement1150,Voie Schumann,Rue Puccini,,48.7924013,2.3759056
+Croisement1151,Voie Schumann,Rue Saint-Just,,48.7924013,2.3759056
+Croisement1152,Voie Van Loo,Chemin Saint-Martin,,48.7849607,2.3846486
+Croisement1153,Voie Victor Massé,Allée Maurice Ravel,,48.7969943,2.3757602
+Croisement1154,Voie Wagner,Voie Schumann,,48.7918928,2.3784089
+Croisement1155,D152,Avenue du Président Salvador Allende D148,,48.7876,2.39164
+Croisement1156,A86,Boulevard de Stalingrad D5,,48.7876,2.39164
