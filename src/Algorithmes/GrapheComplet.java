@@ -8,7 +8,7 @@ public class GrapheComplet {
     private double[][] matriceDistances;
 
     public GrapheComplet(Graphe grapheRoutier, Sommet depot, List<Sommet> pointsCollecte) {
-        // 1. Liste des points d'intérêt (Index 0 = Dépôt)
+        //Liste des points d'intérêt
         this.sommets = new ArrayList<>();
         this.sommets.add(depot);
         this.sommets.addAll(pointsCollecte);
@@ -17,12 +17,9 @@ public class GrapheComplet {
         this.matriceDistances = new double[n][n];
 
         System.out.println("Calcul des distances pour le MST (" + n + " points)...");
-
-        // 2. Calculer les distances "One-to-All" pour chaque point d'intérêt
         for (int i = 0; i < n; i++) {
             Sommet source = sommets.get(i);
 
-            // Appel de la méthode corrigée : on récupère une Map de toutes les distances
             Map<Sommet, Double> distancesDepuisSource = Dijkstra.calculerDistancesVersTous(grapheRoutier, source);
 
             for (int j = 0; j < n; j++) {
@@ -30,7 +27,6 @@ public class GrapheComplet {
                     matriceDistances[i][j] = 0;
                 } else {
                     Sommet cible = sommets.get(j);
-                    // On récupère la distance dans la Map (ou INFINITY si pas atteignable)
                     Double dist = distancesDepuisSource.get(cible);
                     if (dist != null) {
                         matriceDistances[i][j] = dist;
