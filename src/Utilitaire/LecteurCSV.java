@@ -6,7 +6,7 @@ import java.util.*;
 
 public class LecteurCSV {
 
-    // Bornes de Vitry (doivent correspondre à celles du GenerateurGPS)
+    // Bornes de Vitry 
     private static final double MIN_LAT = 48.7750;
     private static final double MAX_LAT = 48.8050;
     private static final double MIN_LON = 2.3700;
@@ -16,7 +16,7 @@ public class LecteurCSV {
     private static final int LARGEUR_ECRAN = 1000;
     private static final int HAUTEUR_ECRAN = 800;
 
-    // Lecture du graphe principal (Carte)
+    // Lecture du graphe principal 
     public static Graphe lireGraphe(String cheminFichier) {
         Graphe graphe = new Graphe(false);
         Map<String, List<Sommet>> rueVersSommets = new HashMap<>();
@@ -42,7 +42,6 @@ public class LecteurCSV {
                 sommet.setLatitude(lat);
                 sommet.setLongitude(lon);
 
-                // Conversion GPS -> Pixels
                 int x = (int) ((lon - MIN_LON) / (MAX_LON - MIN_LON) * LARGEUR_ECRAN);
                 int y = (int) (HAUTEUR_ECRAN - ((lat - MIN_LAT) / (MAX_LAT - MIN_LAT) * HAUTEUR_ECRAN));
 
@@ -81,7 +80,7 @@ public class LecteurCSV {
         return graphe;
     }
 
-    // === NOUVELLE MÉTHODE POUR LE THÈME 2 ===
+    // NOUVELLE MÉTHODE POUR LE THÈME 2
     public static List<Sommet> chargerPointsCollecte(String fichier, Graphe graphe) {
         List<Sommet> points = new ArrayList<>();
         System.out.println("Chargement des points de collecte : " + fichier);
@@ -91,7 +90,7 @@ public class LecteurCSV {
             String ligne;
 
             while ((ligne = br.readLine()) != null) {
-                // ATTENTION : le fichier utilise des points-virgules ";"
+                
                 String[] data = ligne.split(";");
                 if (data.length < 3) continue;
 
