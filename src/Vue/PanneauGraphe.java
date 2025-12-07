@@ -20,8 +20,8 @@ public class PanneauGraphe extends JPanel {
     private Timer timerAnimation;
     private Sommet positionCamion;
 
-    // --- REGLAGES DE VITESSE ET ECHELLE ---
-    // 150ms = Vitesse modérée (lisible)
+    // REGLAGES DE VITESSE ET ECHELLE
+   
     private static final int VITESSE_ANIMATION = 150;
     private static final double METRES_PAR_PIXEL = 5.0;
 
