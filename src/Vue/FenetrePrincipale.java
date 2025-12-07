@@ -23,13 +23,12 @@ public class FenetrePrincipale extends JFrame {
         this.setLocationRelativeTo(null);
         this.setLayout(new BorderLayout());
 
-        // Panneau Carte
+        // Panneau Carte (Centre)
         panneauMap = new PanneauGraphe(grapheVitry);
         this.add(panneauMap, BorderLayout.CENTER);
 
-        // Menu Latéral
+        // Panneau Menu (Gauche)
         JPanel panneauMenu = new JPanel();
-        // On prévoit assez de place pour tous les boutons
         panneauMenu.setLayout(new GridLayout(12, 1, 10, 10));
         panneauMenu.setBackground(Color.LIGHT_GRAY);
         panneauMenu.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
@@ -40,13 +39,13 @@ public class FenetrePrincipale extends JFrame {
         panneauMenu.add(lblTitre);
 
         // --- THEME 1 (BASIQUE) ---
-        JButton btnP1H1 = new JButton("Theme 1-Prob 1 - Hyp 1 (1 Client)");
+        JButton btnP1H1 = new JButton("Theme 1 - Prob 1 - Hyp 1 (1 Client)");
         btnP1H1.addActionListener(e -> lancerP1H1());
         panneauMenu.add(btnP1H1);
 
-        // MODIFICATION : Bouton pour TSP manuel
-        JButton btnP1H2 = new JButton("Theme 1-Prob 1 - Hyp 2 (Tournée TSP)");
-        btnP1H2.setToolTipText("Saisie manuelle d'une liste de croisements");
+        // MODIFIÉ : Hypothèse 2 (TSP sur N points aléatoires)
+        JButton btnP1H2 = new JButton("Theme 1 - Prob 1 - Hyp 2 (Tournée TSP)");
+        btnP1H2.setToolTipText("Génère 10-15 points au hasard et optimise la tournée");
         btnP1H2.addActionListener(e -> lancerP1H2());
         panneauMenu.add(btnP1H2);
 
@@ -66,11 +65,11 @@ public class FenetrePrincipale extends JFrame {
         btnP2C1.addActionListener(e -> lancerP2C1());
         panneauMenu.add(btnP2C1);
 
-        JButton btnP2C2 = new JButton("Theme 1 -Prob 2 - Cas 2 (Chemin Eulérien)");
+        JButton btnP2C2 = new JButton("Theme 1 - Prob 2 - Cas 2 (Chemin Eulérien)");
         btnP2C2.addActionListener(e -> lancerP2C2());
         panneauMenu.add(btnP2C2);
 
-        JButton btnP2C3 = new JButton("Theme 1 -Prob 2 - Cas 3 ");
+        JButton btnP2C3 = new JButton("Theme 1 - Prob 2 - Cas 3 (Postier Chinois)");
         btnP2C3.addActionListener(e -> lancerP2C3());
         panneauMenu.add(btnP2C3);
 
@@ -104,71 +103,62 @@ public class FenetrePrincipale extends JFrame {
     }
 
     /**
-     * HYPOTHESE 2 : TSP MANUEL
-     * Demande une liste de croisements, considère le premier comme Dépôt,
-     * et calcule la tournée la plus courte passant par tous les points.
+     * HYPOTHESE 2 : TSP avec Graphe Complet (Réduction)
+     * Demande le nombre de points (10-15) et calcule la tournée via VoyageurCommerce.
      */
     private void lancerP1H2() {
         panneauMap.setGraphe(grapheVitry, true);
 
-        // 1. Demande de saisie
+        // 1. Demander à l'utilisateur le nombre de points
         String input = JOptionPane.showInputDialog(this,
-                "Hypothèse 2 : Saisie manuelle de la tournée.\n" +
-                        "Entrez les noms/ID des croisements séparés par une virgule.\n" +
-                        "Le PREMIER point saisi sera le DÉPÔT.\n\n" +
-                        "Exemple : 1, 50, 120, 10",
-                "Définition de la Tournée (TSP)",
-                JOptionPane.QUESTION_MESSAGE);
+                "Combien de points de collecte voulez-vous visiter ?\n(Conseillé : entre 10 et 15)",
+                "10");
 
-        // Validation basique
-        if (input == null || input.trim().isEmpty()) return;
-
-        // 2. Traitement de la saisie
-        String[] tabNoms = input.split(",");
-        List<Sommet> pointsAVisiter = new ArrayList<>();
-        StringBuilder erreurs = new StringBuilder();
-
-        for (String nomBrut : tabNoms) {
-            String nom = nomBrut.trim();
-            Sommet s = grapheVitry.getSommet(nom); // Assure-toi que getSommet(String) existe
-            if (s != null) {
-                pointsAVisiter.add(s);
+        int nombrePoints = 10;
+        try {
+            if (input != null && !input.trim().isEmpty()) {
+                nombrePoints = Integer.parseInt(input.trim());
             } else {
-                erreurs.append("- ").append(nom).append("\n");
+                return; // Annulé
             }
-        }
-
-        // Affichage des erreurs si des sommets sont introuvables
-        if (erreurs.length() > 0) {
-            JOptionPane.showMessageDialog(this,
-                    "Sommets introuvables :\n" + erreurs.toString(),
-                    "Erreur", JOptionPane.ERROR_MESSAGE);
-        }
-
-        if (pointsAVisiter.size() < 2) {
-            JOptionPane.showMessageDialog(this,
-                    "Il faut au moins 2 sommets valides (1 Dépôt + 1 Client).",
-                    "Attention", JOptionPane.WARNING_MESSAGE);
+        } catch (NumberFormatException e) {
+            JOptionPane.showMessageDialog(this, "Nombre invalide !");
             return;
         }
 
-        // 3. Préparation pour TSP
-        Sommet depot = pointsAVisiter.get(0);
-        List<Sommet> clients = new ArrayList<>(pointsAVisiter);
-        clients.remove(0); // On garde uniquement les clients dans cette liste
+        // 2. Sélectionner aléatoirement ces points dans la ville
+        List<Sommet> tousSommets = new ArrayList<>(grapheVitry.getTousSommets());
+        if (tousSommets.isEmpty()) return;
+
+        // On prend le premier sommet comme Dépôt (pour avoir une référence fixe)
+        Sommet depot = tousSommets.get(0);
+        List<Sommet> clientsAVisiter = new ArrayList<>();
+
+        Random rand = new Random();
+        // On remplit la liste jusqu'à avoir le nombre demandé
+        while (clientsAVisiter.size() < nombrePoints) {
+            Sommet s = tousSommets.get(rand.nextInt(tousSommets.size()));
+            // On évite les doublons et le dépôt
+            if (!clientsAVisiter.contains(s) && !s.equals(depot)) {
+                clientsAVisiter.add(s);
+            }
+        }
 
         JOptionPane.showMessageDialog(this,
-                "Calcul TSP en cours pour " + clients.size() + " clients...",
-                "Calcul", JOptionPane.INFORMATION_MESSAGE);
+                "Calcul de la tournée optimisée pour " + nombrePoints + " clients...\n" +
+                        "1. Calcul des distances réelles (Dijkstra)\n" +
+                        "2. Résolution du TSP (Graphe réduit)\n" +
+                        "3. Reconstruction de l'itinéraire",
+                "Calcul TSP", JOptionPane.INFORMATION_MESSAGE);
 
-        // 4. Calcul et Animation
+        // 3. Lancer l'algorithme mis à jour (via GrapheComplet)
         try {
-            // Suppose que VoyageurCommerce.calculerTournee prend (Graphe, Depot, List<Clients>)
-            Itineraire tournee = VoyageurCommerce.calculerTournee(grapheVitry, depot, clients);
+            // Note : Assurez-vous que VoyageurCommerce a bien été mis à jour avec la logique GrapheComplet
+            Itineraire tournee = VoyageurCommerce.calculerTournee(grapheVitry, depot, clientsAVisiter);
             panneauMap.animerItineraire(tournee);
         } catch (Exception e) {
             e.printStackTrace();
-            JOptionPane.showMessageDialog(this, "Erreur lors du calcul TSP : " + e.getMessage());
+            JOptionPane.showMessageDialog(this, "Erreur calcul : " + e.getMessage());
         }
     }
 
@@ -176,7 +166,6 @@ public class FenetrePrincipale extends JFrame {
     // LOGIQUE METIER - THEME 2 (OPTIMISATION AVEC CAPACITÉ)
     // ============================================================
 
-    // Approche 1 : Plus Proche Voisin
     private void lancerTheme2() {
         List<Sommet> pointsCollecte = LecteurCSV.chargerPointsCollecte("data/vitry_collecte150.csv", grapheVitry);
         if (pointsCollecte.isEmpty()) {
@@ -191,6 +180,7 @@ public class FenetrePrincipale extends JFrame {
 
         Sommet finalDepot = depot;
         new Thread(() -> {
+            // Capacité camion = 30
             List<Tournee> solution = PlusProcheVoisin.resoudre(grapheVitry, finalDepot, pointsCollecte, 30);
 
             SwingUtilities.invokeLater(() -> {
@@ -206,7 +196,6 @@ public class FenetrePrincipale extends JFrame {
         }).start();
     }
 
-    // Approche 2 : MST (Arbre Couvrant Minimum)
     private void lancerTheme2MST() {
         List<Sommet> pointsCollecte = LecteurCSV.chargerPointsCollecte("data/vitry_collecte150.csv", grapheVitry);
         if (pointsCollecte.isEmpty()) {
